@@ -3,7 +3,7 @@ title: Training course
 date: 2018-02-13T13:42:49-05:00
 ---
 
-## Quality engineering skills can help improve your ways of working
+> Quality engineering skills can help improve your ways of working
 
 I can provide Quality engineering training that is customised to your project needs, wither onsite or via remote workshops.
 
