@@ -34,7 +34,7 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/training"
-    text = "Training"
+    text = "training"
 
 [[params.mainMenu]]
     link = "/about"
