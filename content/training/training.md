@@ -12,7 +12,7 @@ The training is custom-tailored for beginners or more advanced practitioners, wi
 ## Workshops
 Here is an online workshop for Test engineering beginners that I designed for my protegees. The intention is to cover the entire pipeline from coding to deployment. Part of the “zero to vanilla test engineer” workshop ("zero", as in zero prior knowledge).
 
-[Test engineering workshop](https://tender-jackson-59eb23.netlify.com/training-course/traning-course.md)
+[Test engineering workshop](https://tender-jackson-59eb23.netlify.com/training-course/)
 
 While testing skills are important, learning them in context of project as a whole is benefifical and will help testers integrate into teams better.
 
