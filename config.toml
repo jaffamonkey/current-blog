@@ -25,16 +25,20 @@ pygmentsCodefences       = true
     text = "posts"
 
 [[params.mainMenu]]
-    link = "/gallery"
-    text = "gallery"
+    link = "/test-engineering"
+    text = "test engineeing"
 
 [[params.mainMenu]]
-    link = "/portfolio"
-    text = "portfolio"
+    link = "/quality-assurance"
+    text = "quality assurance"
+
+[[params.mainMenu]]
+    link = "/training"
+    text = "Training"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who is sam?"
+    text = "about"
 
 [imaging]
     quality = 75
