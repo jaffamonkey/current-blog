@@ -23,3 +23,4 @@ While testing skills are important, learning them in context of project as a who
 * Coding an automated test
 * Configuring test run on the build server
 * How to deploy the new website to live
+* 
