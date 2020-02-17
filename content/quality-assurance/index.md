@@ -26,4 +26,5 @@ Everyone has a common idea of what sensibly indicates when a Feature is "Done". 
 ## Requirements
 
 In order to do effective criteria such as the DoD, the user story has to be clear, and it is worth chasing this process down. What helps is thinking beyond a 3-liner user story, and thinking about examples to illustrate meaning more clearly. This gives the developers more direction, a better basis for creating acceptance tests, and a clearer shot of fulfilling expectations.
-All quality efforts, at all stages of the project pipeline, should regularly be reviewed. Every process, every way of working has potential for improvement, or perhaps even losing it altogether. Importantly, the team should feel they can be honest.
+
+*Quality at all stages in project pipeline needs regular reivew, and importantly, the team should feel they can be honest.*
