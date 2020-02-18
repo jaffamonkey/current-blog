@@ -12,6 +12,13 @@ tags: ["bdd","testautomation"]
 
 > If you are contracting for many years at different companies, expect a few embarrassing tweets in your history. That is why I balk at the term “expert”, as every “expert” has the same history.  We all jump to conclusions, make bad assumptions, but hopefully we learn quickly (I try). I still cringe at stuff I posted last year, no amount of experience can stop you making mistakes. With every contract, there is always something I could have done better on the previous one (whatever the success level). I have followed some bad directions, but I never waste too much time down rabbit holes for years now.
 
+The case studies can be loosely categorised as the following.
+
+* Close as damnit
+* Not strict BDD but specification by example is followed, and bdd tools used.
+* Not strict BDD anspecification by example is followed, and bdd tools used.
+* Not even close
+
 ## KPMG 04/2011 - 12/2012
 
 #### wtf was I on?
