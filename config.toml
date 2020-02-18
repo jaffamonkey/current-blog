@@ -2,7 +2,7 @@ baseurl                  = "https://example.com/"           # Your domain name. 
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Call me Sam"
+title                    = "jaffamonkey"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
@@ -16,7 +16,7 @@ pygmentsCodefences       = true
     footerText           = "©2019 jaffamonkey B.V. (KVK 71855157) Vestigingsnr: 1012 RP Amsterdam"
 
 # Metadata for Open Graph and Twitter
-    description          = "A new Hugo site."               # Max 160 characters show in search results
+    description          = "Quality engineering"               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Call me Sam"
 
