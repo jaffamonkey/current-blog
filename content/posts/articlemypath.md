@@ -15,6 +15,7 @@ I do take exception to generalisations, and damnit there are hard to avoid. But 
 Yes, we all know how things should be done, but when it comes to the crunch (real work), then you always have to be adaptable. Compromises always have to be made, processes needs some pushing (and challenging), people need supporting. Or you could be the project bore, which helps no-one ("that's not real [blank], just don't ask me to fix the problem").
 
 This article is relating to the contracting experience, from contractor perspective. It's an important first idea to process, as a contractors remit and view, is vastly different from a permanent work. Office culture more directly affects permanent workers and by default it is always on lists of employee concerns. But I am hired to work on projects(s), not to "fix" office culture issues. But I can improve the project processes, and be an optimistic positive force within teams.
+
 Office culture, hierarchy, senior management can all be hurdles. But hurdles can be navigated, or even removed - a lot easier when you are a contractor, as you don't have to pander to office politics so much (though you can't just ignore it). Contracting means working in many different company environments, so I am adaptable and less inclined to be a follower. When I am hired, I assume it is for my skills and experience, not my ability to blend into the office.
 
 ## Test Automation
