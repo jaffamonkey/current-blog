@@ -1,8 +1,6 @@
 ---
 title: Quality Engineering
 date: 2018-02-13T13:42:49-05:00
-images:
-    - /clients/clients.png
 ---
 
 Quality engineering combines quality assurance and test engineering

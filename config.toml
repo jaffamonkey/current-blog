@@ -29,12 +29,12 @@ pygmentsCodefences       = true
     text = "what i do"
 
 [[params.mainMenu]]
-    link = "/clients"
-    text = "who i worked with"
-
-[[params.mainMenu]]
     link = "/training"
     text = "training"
+
+[[params.mainMenu]]
+    link = "/clients"
+    text = "client history"
 
 [[params.mainMenu]]
     link = "/posts"
