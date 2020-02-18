@@ -26,11 +26,11 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/quality-engineering"
-    text = "what i do"
+    text = "quality engineering"
 
 [[params.mainMenu]]
-    link = "/training"
-    text = "training"
+    link = "/learning"
+    text = "learn what i do"
 
 [[params.mainMenu]]
     link = "/clients"

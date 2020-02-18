@@ -1,5 +1,5 @@
 ---
-title: Training course
+title: learning what i do
 date: 2018-02-13T13:42:49-05:00
 ---
 
@@ -23,4 +23,4 @@ While testing skills are important, learning them in context of project as a who
 * Coding an automated test
 * Configuring test run on the build server
 * How to deploy the new website to live
-* 
+  
