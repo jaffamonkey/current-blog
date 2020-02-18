@@ -21,8 +21,8 @@ pygmentsCodefences       = true
     title                = "Call me Sam"
 
 [[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
+    link = "/about"
+    text = "about"
 
 [[params.mainMenu]]
     link = "/test-engineering"
@@ -37,8 +37,8 @@ pygmentsCodefences       = true
     text = "training"
 
 [[params.mainMenu]]
-    link = "/about"
-    text = "about"
+    link = "/posts"
+    text = "posts"
 
 [imaging]
     quality = 75
