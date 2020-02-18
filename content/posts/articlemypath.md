@@ -4,6 +4,8 @@ date: 2018-02-01T12:35:11-05:00
 showDate: true
 draft: false
 tags: ["bdd","testautomation"]
+images:
+    - /posts/bdd.gif
 ---
 _[View this article on Medium](https://link.medium.com/Giz5jBjrb4)_
 
