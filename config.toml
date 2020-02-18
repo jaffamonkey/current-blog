@@ -22,15 +22,15 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/about"
-    text = "about"
+    text = "who i am"
 
 [[params.mainMenu]]
-    link = "/test-engineering"
-    text = "test engineering"
+    link = "/quality-engineering"
+    text = "what i do"
 
 [[params.mainMenu]]
-    link = "/quality-assurance"
-    text = "quality assurance"
+    link = "/clients"
+    text = "who i worked with"
 
 [[params.mainMenu]]
     link = "/training"
