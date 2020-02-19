@@ -11,7 +11,7 @@ pygmentsCodefences       = true
 [params]
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "favico.ico"
+    favicon              = "favicon.ico"
     homepage             = "main"                           # What to call the home page link
     footerText           = "©2020 jaffamonkey ltd"
 
@@ -21,23 +21,23 @@ pygmentsCodefences       = true
     title                = "Call me Sam"
 
 [[params.mainMenu]]
-    link = "/about"
+    link = "https://jaffamonkey.com/about"
     text = "about me"
 
 [[params.mainMenu]]
-    link = "/quality-engineering"
+    link = "https://jaffamonkey.com/quality-engineering"
     text = "quality engineering"
 
 [[params.mainMenu]]
-    link = "/workshops"
+    link = "https://jaffamonkey.com/workshops"
     text = "workshops"
 
 [[params.mainMenu]]
-    link = "/clients"
+    link = "https://jaffamonkey.com/clients"
     text = "client history"
 
 [[params.mainMenu]]
-    link = "/posts"
+    link = "https://jaffamonkey.com/posts"
     text = "case studies"
 
 [imaging]
