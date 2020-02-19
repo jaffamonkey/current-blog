@@ -1,4 +1,4 @@
-baseurl                  = "https://jaffamonkey.com/"           # Your domain name. Must end with "/"
+baseurl                  = "https://www.jaffamonkey.com/"           # Your domain name. Must end with "/"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -21,23 +21,23 @@ pygmentsCodefences       = true
     title                = "Call me Sam"
 
 [[params.mainMenu]]
-    link = "https://jaffamonkey.com/about"
+    link = "/about"
     text = "about me"
 
 [[params.mainMenu]]
-    link = "https://jaffamonkey.com/quality-engineering"
+    link = "/quality-engineering"
     text = "quality engineering"
 
 [[params.mainMenu]]
-    link = "https://jaffamonkey.com/workshops"
+    link = "/workshops"
     text = "workshops"
 
 [[params.mainMenu]]
-    link = "https://jaffamonkey.com/clients"
+    link = "/clients"
     text = "client history"
 
 [[params.mainMenu]]
-    link = "https://jaffamonkey.com/posts"
+    link = "/posts"
     text = "case studies"
 
 [imaging]
