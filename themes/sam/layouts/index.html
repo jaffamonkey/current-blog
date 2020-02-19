@@ -1,31 +1,44 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        {{ partial "head.html" . }}
-        <title>{{ .Title }}</title>
-    </head>
-    <body>
-        <div class="section" id="splash">
-            <img src="/logo.png" class="center"/>
-            {{ if .Site.Params.mainMenu }}
-                {{ range .Site.Params.mainMenu }}
-                    <div class="big-link">
-                        <a href="{{.link}}">
-                            {{.text}}
-                        </a>
-                    </div>
-                {{ end }}
 
-            {{ else }}
-                {{ range .Site.Sections }}
-                    <div class="big-link"> 
-                        <a href="{{.RelPermalink}}">
-                            {{.Title}}
-                        </a>
-                    </div>
-                {{ end }}
-            {{ end }}
-            <p><a href="https://twitter.com/jaffamonkey" target="_blank">twitter</a> <a href="https://www.linkedin.com/in/jaffamonkey/" target="_blank">linkedin</a> <a href="mailto:paullittlebury@gmail.com" target="_blank">email</a></p>
+<head>
+    {{ partial "head.html" . }}
+    <title>{{ .Title }}</title>
+</head>
+
+<body>
+    <div class="section" id="splash">
+        <img src="/logo.png" class="center">
+        <div class="big-link1">
+            <a href="/about">
+                who i am
+            </a>
         </div>
-    </body>
+        <div class="big-link2">
+            <a href="/quality-engineering">
+                quality engineering
+            </a>
+        </div>
+        <div class="big-link3">
+            <a href="/learning">
+                learn what i do
+            </a>
+        </div>
+        <div class="big-link4">
+            <a href="/clients">
+                client history
+            </a>
+        </div>
+
+        <div class="big-link5">
+            <a href="/posts">
+                posts
+            </a>
+        </div>
+        <p><a href="https://twitter.com/jaffamonkey" target="_blank">twitter</a> <a
+                href="https://www.linkedin.com/in/jaffamonkey/" target="_blank">linkedin</a> <a
+                href="mailto:paullittlebury@gmail.com" target="_blank">email</a></p>
+    </div>
+</body>
+
 </html>
