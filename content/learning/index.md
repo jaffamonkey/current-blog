@@ -1,5 +1,5 @@
 ---
-title: learn what i do
+title: workshops
 date: 2020-02-13T13:42:49-05:00
 ---
 
