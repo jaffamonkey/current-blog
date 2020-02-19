@@ -1,6 +1,6 @@
 ---
-title: learning what i do
-date: 2018-02-13T13:42:49-05:00
+title: learn what i do
+date: 2020-02-13T13:42:49-05:00
 ---
 
 > Quality engineering skills can help improve your ways of working
