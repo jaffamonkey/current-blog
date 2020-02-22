@@ -20,4 +20,4 @@ In the late 1990's I latched onto opensource for the first time, PHPNuke was my 
 
 I never make any assumptions project-to-project. I enjoy the challenge of testing - the broad skills remit, the constant skills updating, sometimes dealing with negativity. Bad perceptions of testing usually have a reason, but the concerns quickly vanish with actual results that the whole team can process.I have developed ability manage many business and technical tasks, and a mindset always ready to change/adapt.
 
-[Freelancer CV (Word)](/resume.doc)   [Freelancer CV (PDF)](/resume.pdf)
+[CV (Word)](/resume.doc)   [CV (PDF)](/resume.pdf)
