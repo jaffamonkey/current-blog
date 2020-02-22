@@ -10,22 +10,19 @@ The assumption is you have set up accounts on Github - you can use you GitHub cr
 While it will be important to understand running commands from a Terminal, for this training guide, using the web services will be sufficient.
 
 ## GitHub
-
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-Create a repo on github
-Go to GitHub
-Github is a service where you can keep your code, and make it available to others. After setting up your account, click the "+" symbol in the top-right of the menu bar.
 
+### Create a repo on github
+
+Github is a service where you can keep your code, and make it available to others. After setting up your account, click the "+" symbol in the top-right of the menu bar.
 ￼
-## Fill in repo form
+### Fill in repo form
 The defaults are ok, but remember to select to add README to add repo info.
 
-￼
-## Webpage
+### Webpage
 Create first HTML page
 After creating repo, click "Create New File" and enter filename `index.html`.
 
-￼
 Now we can start the coding!
 ```
 <!DOCTYPE html>
@@ -304,7 +301,7 @@ The closing tag for "body".
 ```
 The closing tag for "html"
 
-## Start your webpage as a website
+### Start your website
 
 The Node library provides a useful method of serving webpages.
 
