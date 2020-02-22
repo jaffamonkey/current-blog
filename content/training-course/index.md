@@ -531,32 +531,23 @@ Create a new file in your repo folder named `.travis.yml`
 
 #### Add the code
 ```
-sudo: required // Some installation actions require administrator-level access
+sudo: required // Some actions require administrator-level access
 dist: trusty // Builds a mininal machine to runs tests on
-
 addons:
   chrome: stable // installs latest stable Chrome
-
 language: node_js // define primary platform language
-
 node_js:
   - '11' // define primary platform language version
-
 branches:
   only:
-  - travis-ci // Specifies that only the 'travis-ci' branch will be used
-
+  - travis-ci // Specifies the branch to use.
 before_script:
-
   // install selenium-webdriver to use browser from DOM level
   - npm install selenium-webdriver
-
   // install chromedriver, the browser interaction service for Chrome
   - npm install chromedriver
-
   // Run the browser interaction service in background
   - ./node_modules/.bin/chromedriver &
-
 script:
   - node test.js // run the tests
 ```
