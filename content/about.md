@@ -19,5 +19,3 @@ At this point in a 23 year career, half has been in Quality assurance and Test m
 In the late 1990's I latched onto opensource for the first time, PHPNuke was my first toy and at that time sourceforge was the major centre of opensource code. From that point forward, discovered Fitnesse and Selenium. Opensource has been my biggest inspiration and my biggest source of learning, introducing me first to test frameworks like Fitnesse, which first sparked my interest in test automation in 2003.
 
 I never make any assumptions project-to-project. I enjoy the challenge of testing - the broad skills remit, the constant skills updating, sometimes dealing with negativity. Bad perceptions of testing usually have a reason, but the concerns quickly vanish with actual results that the whole team can process.I have developed ability manage many business and technical tasks, and a mindset always ready to change/adapt.
-
-[CV (Word)](/resume.doc)   [CV (PDF)](/resume.pdf)
