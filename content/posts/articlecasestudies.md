@@ -2,7 +2,7 @@
 title: "BDD Project Case Studies"
 date: 2018-02-01T12:35:11-05:00
 showDate: true
-draft: true
+draft: false
 tags: ["bdd","testautomation"]
 ---
 
@@ -19,7 +19,7 @@ The case studies can be loosely categorised as the following.
 * Not strict BDD anspecification by example is followed, and bdd tools used.
 * Not even close
 
-## KPMG 04/2011 - 12/2012
+## Industry: Finance (2011/2012)
 
 #### wtf was I on?
 _Oct 20, 2011_
@@ -46,7 +46,7 @@ Once the first set of BBD tests were written, and because the team was small, it
 After that contract I really made decision to focus more heavily on the tech side, and leave the test manager contracts behind.
 
 
-## OPG 09/2013 - 11/2014
+## Industry: Creative (2013/2014)
 
 #### I am almost falling out of my pulpit.
 _Aug 28, 2013_
@@ -73,7 +73,7 @@ On technical side, was a less straight path one. The project started out as a Ze
 
 In the last few months, did attempt migration to CucumberJS/Protractor, but in 2013 CucumberJS still had some issues of it’s own. Sometimes you will only swap soap for shampoo. The ideal (in hindsight) would have been Jasmine/Protector. Jasmine syntax still has steps, but that detail in all in the code itself.  Old style BDD tools, if you like - the developers had this stuff before the business fell in love with Gherkin. Gherkin is a layer, and it is removable as the functioning code lie underneath. Tools like CucumberJS enable that Gherkin to be executable.  A big lesson after 14 months (one of my longest ever projects) was not to get too wrapped up in Gherkin. There are so many ways to write it really, and so many opinions. But if your team understand purpose, and importantly the business see the value of it, why not use it. 
 
-## HMRC 12/2014 - 03/2015
+## Industry: Civil Service (2014/2015)
 
 #### Utter vague bollocks
 _Jan 5, 2015_
@@ -85,7 +85,7 @@ Room to play, and we had a lean team. The project was a straightforward career m
 
 From Sprint 1 (can we drop the Sprint 0 bollocks, please), BDD was applied 100% with no feature moving forward in Sprint planning without the clear business acceptance test ready-to-run. A lot more communication involved, but luckily we were all a very communicative group who didn’t mind being interrupted (we all can waffle). 6 sprints of perfection, and a very happy PO. Unfortunately as is the way of business, other factors meant essentially the project was put on hold.
 
-## HIVEWORKS 03/2015 - 05/2015
+## Industry: Mobile (2015)
 
 #### Horrible realisation idiots had got hold of BDD
 _May 17, 2015_
@@ -99,7 +99,7 @@ A project fully committed to Behat with webdirverio, though the Gherkin was larg
 This was first project I had been on where they had BDD tools, but that was it. Project ran to Scrum, even though they considered themselves Agile. When I suggested I raised issues on Jira tracking, not post-it notes, there was weird resistance.  Until the second day when a developer (the one who grumbled most) suddenly turned round to me and said, "Actually, this does make it easier!". Its not said with pride, as I wanted to respond "And I had to tell you that?".
 
 
-## TNT 07/2015 - 11/2015
+## Industry: Logisitics (2015)
 
 #### My optimism always wins ... in the end
 _Aug 22, 2015_
@@ -138,7 +138,7 @@ After these initial dramas, the process was pedestrian.  I would take user stori
 One class act a month before I left, was the PO suddenly took it upon himself (without consutling with the teams at all), and decided to use the aha SaaS, for recording requirements. IUtterly laugable that a manager thinks this kind of decision making, looks like strong action from stong manager (exactly why he did it). Development went well, because there were good developers. And a good Scrummaster. And a good test engineer of course :) But the digital transformation layer was utterly pointless.
 
 
-## WOWCHER 01/2016 - 04/2016
+## Industry: Vouchers (2016)
 
 #### My escapism project
 _Jan 19, 2016_
@@ -163,7 +163,7 @@ I spent most of four months building CucumberJS based test framework, and execut
 
 It was a lesson that sometimes although senior management hire to get help, it does not mean anyone underneath them wants it. It was a firefighting environment, that plain refused to listen to any . They preferred the way of working, even though the demands of their B2C website clearly pointed to change. The Products Owners were young, happy with their job titles, but seemed a little clueless what they were supposed to do. The beleaguered Scrummaster was forced to play silly games around signoffs, as the lead PO always took opportunity to puff out his chest and be difficult for the sake of it. Forget BDD, this place wasn’t even Agile, it was chaotic but mitigated by superb (wasted) devops. 
 
-## NHS 06/2016 - 12/2016
+## Industry: NHS (2016)
 
 #### BDD was a sensitive subject area around this time - too many vying for "expert" status.
 _Jul 18, 2016_
@@ -175,7 +175,7 @@ _Jul 1, 2016_
 
 Worked again with consultancy, who generally followed the same BDD-driven approach, but really it’s about writing Gherkin style features.  A bit more of a pedestrian project, it started out as a Java/Spring project, but the frontend was given to angular. Heavily driven by UX team, via prototyping it worked not least because although the PO’s were not up to doing requirements, gherkin or otherwise, they trusted the team and clearly enjoyed being part of it.
 
-## i2N 12/2016 - 04/2017
+## Industry: Ministry of Justice (2016/2017)
 
 #### One of those tweets referencing something specific that must have pissed me off
 _Dec 5, 2016_
@@ -197,7 +197,7 @@ Team contribution to writing features: Average (Test, Bus Analyst).  Another civ
 
 Civil Service like BDD projects, or they are commonly sold of the Gherkin format itself. This leads to varying degrees of collaboration. You can’t fire someone for their inability yo write requirements properly. Your standard Business Analayst will still do a masterful job of giving you all you need to develop tests based on the scenarios they usually outline. But  bizarrely most find translation to wiring in actual Gherkin hard. Not least because the beginner guides are all “When I click button, Then I see confirmation message.”  This quickly falls apart when considering less form-driven tests (the easy ones). This pushes PO’s to think more carefully about their usual write-3-line-user-story-and-run approach.
 
-## BEIS 06/2017 - 07/2018
+## Industry: Civil Service (2017/2018)
 
 #### Oooh, look at what I made!
 _Jun 11, 2018_
@@ -207,10 +207,10 @@ _Jun 11, 2018_
 _Sep 8, 2017_
 > The level of engagement from POs and stakeholders does vary wildly, but I still find BDD approach to acceptance tests useful.
 
-Here I went for a CucumberJS/Webdriverio, which at the time was touted incorrectly as selenium replacement (it still needed selenium server to execute tests in browser). It came with whole host of steps, which quickly became apparent most were redundant/useless for the project. Midway through I migrated across to NightwatchJS/Cucumber framework, which only took and day or so.  The Gherkin remained the same, and it did not take too long to adjust the existing javascript code. I ended up with a much leaner framework. The issue with using the helper tools is it's not easy to see the overhead, until you have something to compare it to.
+Here I went for a CucumberJS/Webdriverio, which at the time was touted incorrectly as "selenium replacement" (it still needed selenium server to execute tests in browser). It came with whole host of steps, which quickly became apparent most were redundant/useless for the project. Midway through I migrated across to NightwatchJS/Cucumber framework, which only took and day or so.  The Gherkin remained the same, and it did not take too long to adjust the existing javascript code. I ended up with a much leaner framework. The issue with using the helper tools is it's not easy to see the overhead, until you have something to compare it to.
 
 
-## DoE 06/2019 - 10/2019
+## Industry: Civil Service (2019)
 
 #### I could imagine myself yawning as I typed this.
 _Aug 15, 2019_
