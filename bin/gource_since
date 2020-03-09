@@ -1,0 +1,91 @@
+#!/usr/bin/env bash
+
+set -Eaeuo pipefail
+
+# NOTE: This script creates a file called gource.ppm which is the
+# source of the mp4 file created by ffmpeg(1).  The file is useful if
+# you want to try different ffmpeg settings BUT it is very large and
+# you should delete it when you are done making movies!
+
+if [ -z "${1-}" ]
+then
+    echo "Usage: $(basename "${0-}") <how long ago>"
+    echo
+    echo "For example: $(basename "${0-}") '10 days ago'"
+
+    exit 1
+
+elif [ ! -d '.git' ]
+then
+    echo "ERROR: To run this script, you must be inside a Git repository!"
+
+    exit 1
+
+elif [ ! -d '.git/avatar' ]
+then
+    echo "ERROR: Avatars are missing, please run bin/github_gravatar_fetch"
+
+    exit 1
+
+fi
+
+logfile="gource_git.log"
+
+git log --since="$1" \
+    --pretty=format:user:%aN%n%at \
+    --raw \
+    --reverse \
+    --encoding=UTF-8 \
+    --no-renames \
+    --date-order \
+    . \
+    > "$logfile"
+
+hide_elements="progress,mouse,filenames"
+
+movie_title="${PWD##*/}/$(git symbolic-ref HEAD | cut -d'/' -f3)"
+
+resolution=-1920x1080
+
+seconds_per_day=1
+
+skip_seconds=0.3
+
+time_scale=3
+
+user_scale=3
+
+gource  \
+    --hash-seed 90998 \
+    --title "$movie_title" \
+    --key \
+    $resolution \
+    --stop-at-end \
+    --file-idle-time 0 \
+    --max-files 0 \
+    --hide $hide_elements \
+    --bloom-intensity 0.3 \
+    --font-size 18 \
+    --user-friction 0.2 \
+    --auto-skip-seconds $skip_seconds \
+    --seconds-per-day $seconds_per_day \
+    --user-scale $user_scale \
+    --time-scale $time_scale \
+    --date-format "%B %d, %Y" \
+    --multi-sampling \
+    --user-image-dir '.git/avatar' \
+    -o 'gource.ppm' \
+    "$logfile"
+
+ffmpeg -y \
+       -r 60 \
+       -f image2pipe \
+       -vcodec ppm \
+       -i 'gource.ppm' \
+       -vcodec libx264 \
+       -preset ultrafast \
+       -pix_fmt yuv420p \
+       -crf 1 \
+       -threads 0 \
+       -bf 0 \
+       'gource.mp4'
