@@ -21,12 +21,10 @@ The case studies can be loosely categorised as the following.
 
 ## Industry: Finance (2011/2012)
 
-#### wtf was I on?
-_Tweet: Oct 20, 2011_
+#### wtf was I on? [Oct 20, 2011]
 > Just switched from #kanban project to #bdd one -wow it feels so much slower!  Even a Sprint feels too long these days :) 
 
-#### Oh ffs ...
-_Tweet: Oct 20, 2011_
+#### Oh ffs ... [Oct 20, 2011]
 > I had recent experience with #BDD - it doesn't seem that far off #TDD though - am I missing something?
 
 I first came across BDD on a C# project for a small Elections and Claims web app (I still have no idea what claims and elections are). Up to that point, I had been working on several projects, using the Visual Studio tools for test automation. Project Management was purist Scrum, but there was room for Agile development practice at least. 
@@ -48,12 +46,10 @@ After that contract I really made decision to focus more heavily on the tech sid
 
 ## Industry: Creative (2013/2014)
 
-#### I am almost falling out of my pulpit.
-_Tweet: Aug 28, 2013_
+#### I am almost falling out of my pulpit [Aug 28, 2013]
 > #BDD introduced me to a testing world, where tester can be more integral. Not for the faint-hearted, or those not willing to learn MORE.
 
-#### You can tell I love the BDD label
-_Tweet: Sep 2, 2013_
+#### You can tell I love the BDD label [Sep 2, 2013]
 > That what makes #BDD so good :) Keeps development on track of what customer expects. i.e. Automated tests driven by requirements.
 
 The good one at OPG
@@ -75,8 +71,7 @@ In the last few months, did attempt migration to CucumberJS/Protractor, but in 2
 
 ## Industry: Civil Service (2014/2015)
 
-#### Utter vague bollocks
-_Tweet: Jan 5, 2015_
+#### Utter vague bollocks [Jan 5, 2015]
 > After mild #BDD comedown last year, following the philosophy of “Begin with the end in mind.” [Stephen R. Covey]
 
 The lean one at HMRC
@@ -87,8 +82,7 @@ From Sprint 1 (can we drop the Sprint 0 bollocks, please), BDD was applied 100% 
 
 ## Industry: Mobile (2015)
 
-#### Horrible realisation idiots had got hold of BDD
-_Tweet: May 17, 2015_
+#### Horrible realisation idiots had got hold of BDD [May 17, 2015]
 > Oh no! Realised sales people have now got hold of #bdd. Just ignore them & they may just go away :) Or could be the beginning of the end.
 
 The BDD tools, but not BDD (Test)
@@ -101,20 +95,16 @@ This was first project I had been on where they had BDD tools, but that was it. 
 
 ## Industry: Logisitics (2015)
 
-#### My optimism always wins ... in the end
-_Tweet: Aug 22, 2015_
+#### My optimism always wins ... in the end [Aug 22, 2015]
 > My 4 #bdd years, out of 20 years of contracting, had more impact on my knowledge and learning, than any of the other 16. Says something.
 
-#### Mock data, don't do it
-_Tweet: Sep 14, 2015_
+#### Mock data, don't do it [Sep 14, 2015]
 > It’s amazing how much quicker api development can happen, when there is ban of mock data for bdd tests :)  #necessityisthemotherofinvention
 
-#### Yep, I am mildly pissed off.
-_Tweet: Sep 28, 2015_
+#### Yep, I am mildly pissed off [Sep 28, 2015]
 > People resist doing #bdd scenarios, while at same time, illustrating user stories verbally, using scenarios. Is it such a big leap? :)
 
-#### Frustration showing, as I was spoilt with earlier BDD projects
-_Tweet: Nov 15, 2015_
+#### Frustration showing [Nov 15, 2015]
 > When #BDD scenario writing is delegated (usually QA) & no-one else reviews, different expectations are no surprise. Needs consensus.
 > 
 Over the Netherlands on a large Agile Transformation project, bloated with Agile consultants but luckily very good developers. This is partly why this case study is longer by far. My thoughts on Agile Transformation projects contain too many swear words, and could fill an article all on it's own.  Dutch office culture is a little ... old fashioned. Maybe that's not the right description, but generally there is informal communication layer, but also a strong hierarchal based layer. And the two shall never mix.
@@ -140,18 +130,14 @@ One class act a month before I left, was the PO suddenly took it upon himself (w
 
 ## Industry: Vouchers (2016)
 
-#### My escapism project
-_Tweet: Jan 19, 2016_
+#### My escapism project [Jan 19, 2016]
 > January mission: Create #BDD test framework that works on Mac, Linux and Windows, without need for "fiddling" :) The latter will be awkward!
 
-#### Ooooh, miaow! Obviously read a few articles that pissed me off.
-_Tweet: Jan 25, 2016_
+#### Ooooh, miaow! Obviously read a few articles that pissed me off [Jan 25, 2016]
 > Your failure to persuade business as to the benefit of a well-organised specification language, does not mean bdd is crap. #Gherkin
 > 
-#### Depressing realisation of the idiocy of development process.
-_Tweet: Feb 14, 2016_
+#### Depressing realisation of the idiocy of development process [Feb 14, 2016]
 > Why many clients appear to want the #bdd style test automation, but not much else ... apart from some kind of magic.
-
 
 The interview was weird, as they talked like everything was in place and I was part of the plan. What I didn’t realise the plan was: there was no plan. They assumed I would slot in and somehow “do my thing”. 
 
@@ -165,24 +151,20 @@ It was a lesson that sometimes although senior management hire to get help, it d
 
 ## Industry: NHS (2016)
 
-#### BDD was a sensitive subject area around this time - too many vying for "expert" status.
-_Tweet: Jul 18, 2016_
+#### BDD was a sensitive subject area around this time - too many vying for "expert" status [Jul 18, 2016]
 > I should add that I am not selling #bdd as software development cult. Thought I should add that, given recent testing soap operas!
 
-#### I still believe this 
-_Tweet: Jul 1, 2016_
+#### I still believe this [Jul 1, 2016]
 > I don't care for labels, but projects with  certain labels seem to attract good people, at all levels. #bdd #opensource #devops
 
 Worked again with consultancy, who generally followed the same BDD-driven approach, but really it’s about writing Gherkin style features.  A bit more of a pedestrian project, it started out as a Java/Spring project, but the frontend was given to angular. Heavily driven by UX team, via prototyping it worked not least because although the PO’s were not up to doing requirements, gherkin or otherwise, they trusted the team and clearly enjoyed being part of it.
 
 ## Industry: Ministry of Justice (2016/2017)
 
-#### One of those tweets referencing something specific that must have pissed me off
-_Tweet: Dec 5, 2016_
+#### One of those tweets referencing something specific that must have pissed me off [Dec 5, 2016]
 > An automated acceptance test doesn't care what you label it - #bdd, #tdd, #atdd  ... It's either useful or it isn't.
 
-#### I always positive spin, so this was result of applying some pragmaticsm in more challenging projects
-_Tweet: Jan 5, 2017_
+#### I always positive spin, so this was result of applying some pragmaticsm in more challenging projects [Jan 5, 2017]
 > #BDD doesn't have to be pure for good effect. Better specs, better CI tests, better team vibe and better tools.
 
 The most suited and booted consultany I had worked with for a while, but open and honest with their challenges. In those circumstances, I will always give a little bit more.
@@ -199,12 +181,10 @@ Civil Service like BDD projects, or they are commonly sold of the Gherkin format
 
 ## Industry: Civil Service (2017/2018)
 
-#### Oooh, look at what I made!
-_Tweet: Jun 11, 2018_
+#### Oooh, look at what I made! [Jun 11, 2018]
 > When I did a presentation of Gherkin and BDD for a totally non-tech audience (mainly for the product owners), I realised it's straightforward to avoid terminology, and use simple generic language. There is a tendency to over-complicate things in tech 
 
-#### Uusal resignation to fact, if you don't have the PO that do speicifation by example, you can still use the appraoch and the tools, though no need for Gherkin if no interest (sometime devs like to have this format)
-_Tweet: Sep 8, 2017_
+#### It became clear the developers are not the problem [Sep 8, 2017]
 > The level of engagement from POs and stakeholders does vary wildly, but I still find BDD approach to acceptance tests useful.
 
 Here I went for a CucumberJS/Webdriverio, which at the time was touted incorrectly as "selenium replacement" (it still needed selenium server to execute tests in browser). It came with whole host of steps, which quickly became apparent most were redundant/useless for the project. Midway through I migrated across to NightwatchJS/Cucumber framework, which only took and day or so.  The Gherkin remained the same, and it did not take too long to adjust the existing javascript code. I ended up with a much leaner framework. The issue with using the helper tools is it's not easy to see the overhead, until you have something to compare it to.
@@ -212,8 +192,7 @@ Here I went for a CucumberJS/Webdriverio, which at the time was touted incorrect
 
 ## Industry: Civil Service (2019)
 
-#### I could imagine myself yawning as I typed this.
-_Tweet: Aug 15, 2019_
+#### I could imagine myself yawning as I typed this [Aug 15, 2019]
 > If you follow any methodology by the letter, you will have a hard time. Adapt, adjust etc. per project/team. BDD has good elements, which other approaches like Specification By Example picked up on. Also inspired some great opensource tools. More than readability 
 
 A diversion skill-wise into Ruby.  As by now, learning as I go became just an assumed part of my work life.  As your skills accrue, learning is rarely from the beginning, as skills always cross into other products/areas. The project was driven by extensive designs and protyping, this does make following BDD path easier, so much can be visible (and operational depending on sophiscation for tool used). Civil service projects tend to be a tad pedestrians as design templates are tightly controlled and applied rigidly. It's like a brand-look. As soon as I see one of "those buttons", I know it's a civil service site.
