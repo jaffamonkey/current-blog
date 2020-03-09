@@ -1,5 +1,5 @@
 ---
-title: "Test engineering journey in BDD"
+title: "Testing journey in BDD"
 date: 2020-02-01T12:35:11-05:00
 showDate: true
 draft: false
