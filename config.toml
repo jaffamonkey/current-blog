@@ -13,7 +13,7 @@ pygmentsCodefences       = true
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "favicon.ico"
     homepage             = "main"                           # What to call the home page link
-    footerText           = "©2020 jaffamonkey ltd"
+    footerText           = "©2020 jaffamonkey ltd (t: +44 7739 670 315)"
 
 # Metadata for Open Graph and Twitter
     description          = "Quality engineering"               # Max 160 characters show in search results
