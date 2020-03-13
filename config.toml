@@ -40,5 +40,9 @@ pygmentsCodefences       = true
     link = "/posts"
     text = "case studies"
 
+[[params.mainMenu]]
+    link = "/app-projects"
+    text = "app projects"
+
 [imaging]
     quality = 75
