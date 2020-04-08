@@ -38,7 +38,11 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/posts"
-    text = "case studies"
+    text = "posts"
+
+[[params.mainMenu]]
+    link = "/resume"
+    text = "resume"
 
 [imaging]
     quality = 75
