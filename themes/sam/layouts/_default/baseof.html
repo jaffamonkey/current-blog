@@ -18,7 +18,7 @@
 
 <body>
     {{ block "main" . }}<div class="wrap">
-        <div class="logo"><img src="https://www.jaffamonkey.com/logo.png" width="100px" /></div>
+        <a href="https://www.jaffamonkey.com"><div class="logo"><img src="https://www.jaffamonkey.com/logo.png" width="100px" /></div></a>
         {{ block "section_title" . }}<div class="section" id="title">{{ .Title }}</div>{{ end }}
 
         {{ block "section_content" . }}<div class="section" id="content">{{ .Content }}</div>{{ end }}
