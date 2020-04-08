@@ -154,7 +154,7 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 
 ### Role: Lead Developer in Test
 
-#### Project: Drupal/Node/ElasticSearch CMS web application, with , aimed at providing content for external users, and means to manage content for Orange brand teams.
+#### Project: Drupal/Node/ElasticSearch CMS web application, aimed at providing content for external users, and means to manage content for Orange brand teams.
 
 #### Activities
 * Rapidly improving test coverage during project final phase.
