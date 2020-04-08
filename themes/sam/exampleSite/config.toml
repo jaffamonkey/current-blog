@@ -29,8 +29,8 @@ pygmentsCodefences       = true
     text = "gallery"
 
 [[params.mainMenu]]
-    link = "/portfolio"
-    text = "portfolio"
+    link = "/resume"
+    text = "resume"
 
 [[params.mainMenu]]
     link = "/about"
