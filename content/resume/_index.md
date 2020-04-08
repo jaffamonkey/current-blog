@@ -36,9 +36,9 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 * Building frameworks for Load, Security and Accessibility testing.
 * Training BA's on using Specification by Example approach to requirements.
 
-#### Methodologies: Agile, Scrum, BDD
+#### Methodologies: `Agile`, `Scrum`, `BDD`
 
-#### Tech: Ruby on Rails, JavaScript, Angular, Azure, Docker, JMteter, Artillery, OWASP ZAP, Pa11y, Cucumber, Webdriver, Jira
+#### Tech: `Ruby on Rails`, `JavaScript`, `Angular`, `Azure`, `Docker`, `JMeter`, `Artillery`, `OWASP ZAP`, `Pa11y`, `Cucumber`, `Webdriver`, `Jira`
 
 ## Tele2
 ( _Sep 2018 to_ _Mar_ _2019_ )
@@ -54,11 +54,9 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 * Implementing load and security test son the build server.
 * Maintaining test strategy and delivering presentations at Sprint demos.
 
-#### Methodologies
-Agile, Scrum
+#### Methodologies: `Agile`, `Scrum`
 
-#### Tech
-Python3, Jest, Superagent, Node, OWASP ZAP, Watson SDK, Jenkins, Jira
+#### Tech: `Python3`, `Jest`, `Superagent`, `Node`, `OWASP ZAP`, `Watson SDK`, `Jenkins`, `Jira`
 
 ## Engine | Transformation       
 ( _Jun 2017 to Jul 2018_ )
@@ -76,9 +74,9 @@ Python3, Jest, Superagent, Node, OWASP ZAP, Watson SDK, Jenkins, Jira
 * Load testing using jMeter, generating dashboard reports with trend history.
 * Migrated test framework to use NightwatchJS, as part of handover
 
-#### Methodologies: Agile, Scrum, BDD
+#### Methodologies: `Agile`, `Scrum`, `BDD`
 
-#### Tech: WebdriverIO, NightwatchJS , CucumberJS, Docker, Vagrant, Appium, XCtest, XCUITest, XCode, AndroidSDK, Selenium, Travis, Jira
+#### Tech: `WebdriverIO`, `NightwatchJS` , `CucumberJS`, `Docker`, `Vagrant`, `Appium`, `XCtest`, `XCUITest`, `XCode`, `AndroidSDK`, `Selenium`, `Travis`, `Jira`
 
 ## i2N
 ( _Dec 2016 to Apr 2017_ )
@@ -95,9 +93,9 @@ Python3, Jest, Superagent, Node, OWASP ZAP, Watson SDK, Jenkins, Jira
 * Integration of automated acceptance, security and accessibility testing in the build/deployment pipeline.
 * JMeter API load testing
 
-#### Methodologies: Agile, Scrum, BDD
+#### Methodologies: `Agile`, `Scrum`, `BDD`
 
-#### Tech: AngularJS, CucumberJS, PhantomJS, Marionette, Selenium, JUnit, Jenkins, Jira
+#### Tech: `AngularJS`, `CucumberJS`, `PhantomJS`, `Marionette`, `Selenium`, `JUnit`, `Jenkins`, `Jira`
 
 ## Engine | Transformation
 ( _Jun 2016 to Dec 2016_ )
@@ -113,9 +111,9 @@ Python3, Jest, Superagent, Node, OWASP ZAP, Watson SDK, Jenkins, Jira
 * Outlined BDD project process for both internal and external audience. Maintaining test automation momentum, as an integral part of user story acceptance.
 * Integration of automated security and accessibility testing build/deployment pipeline. 
 
-#### Methodologies: Agile, Scrum, BDD
+#### Methodologies: `Agile`, `Scrum`, `BDD`
 
-#### Tech: Java, Spring, AngularJS, CucumberJS, PhantomJS, Gherkin, Selenium, JUnit, Jenkins, Jira
+#### Tech: `Java`, `Spring`, `AngularJS`, `CucumberJS`, `PhantomJS`, `Gherkin`, `Selenium`, `JUnit`, `Jenkins`, `Jira`
 
 ## Wowcher
 ( _Jan 2016 to Apr 2016_ )
@@ -131,9 +129,9 @@ Python3, Jest, Superagent, Node, OWASP ZAP, Watson SDK, Jenkins, Jira
 * Devising strategy for integrating automated acceptance tests into build pipeline.
 * JMeter API load testing
 
-#### Methodologies: Agile, Scrum, Kanban
+#### Methodologies: `Agile`, `Scrum`, `Kanban`
 
-#### Tech: CucumberJS, Protractor, Selenium, PhantomJS, Postman, Jira, Gherkin, AngularJS, REST, Github
+#### Tech: `CucumberJS`, `Protractor`, `Selenium`, `PhantomJS`, `Postman`, `Jira`, `Gherkin`, `AngularJS`, `REST`, `Github`
 
 ## TNT
 ( _Jul 2015 to Nov 2015_ )
@@ -152,9 +150,9 @@ Python3, Jest, Superagent, Node, OWASP ZAP, Watson SDK, Jenkins, Jira
 * JMeter API performance testing.
 * Agile testing process improvement
 
-#### Methodologies: Agile, Scrum, BDD
+#### Methodologies: `Agile`, `Scrum`, `BDD`
 
-#### Tech: CucumberJS, Jasmine, Selenium, PhantomJS, Jira, Gherkin, CasparJS, AngularJS, REST, Github
+#### Tech: `CucumberJS`, `Jasmine`, `Selenium`, `PhantomJS`, `Jira`, `Gherkin`, `CasparJS`, `AngularJS`, `REST`, `Github`
 
 ## Hiveworks
 ( _Mar 2015 to May 2015_ )
@@ -170,9 +168,9 @@ Python3, Jest, Superagent, Node, OWASP ZAP, Watson SDK, Jenkins, Jira
 * Creating cross-browser framework using Selenium Grid.
 * Implementation of PhantomJS/CasparJS app for visual regression testing.
 
-#### Methodologies: Agile, Scrum, BDD
+#### Methodologies: `Agile`, `Scrum`, `BDD`
 
-#### Tech: PHP, Drupal, AngularJS, ElasticSearch, REST, Github, Behat, Mink, Selenium, Goutte, PhantomJS, PHPUnit, Jira, Gherkin, CasparJS
+#### Tech: `PHP`, `Drupal`, `AngularJS`, `ElasticSearch`, `REST`, `Github`, `Behat`, `Mink`, `Selenium`, `Goutte`, `PhantomJS`, `PHPUnit`, `Jira`, `Gherkin`, `CasparJS`
 
 ## Engine | Transformation
 ( _Dec 2014 to Mar 2015_ )
@@ -189,9 +187,9 @@ Python3, Jest, Superagent, Node, OWASP ZAP, Watson SDK, Jenkins, Jira
 * Integration of tests in the build pipeline, to ensure requirements kept in focus. 
 * Mentoring team members on Behat and Gherkin (specification language).
 
-#### Methodologies: Agile, Scrum, BDD
+#### Methodologies: `Agile`, `Scrum`, `BDD`
 
-#### Tech: PHP, Javascript, Symfony2, REST, Github, Behat, Mink, Selenium, Goutte, PhantomJS, PHPUnit, Jira, Gherkin
+#### Tech: `PHP`, `Javascript`, `Symfony2`, `REST`, `Github`, `Behat`, `Mink`, `Selenium`, `Goutte`, `PhantomJS`, `PHPUnit`, `Jira`, `Gherkin`
 
 ## Engine | Transformation
 ( _Sep 2013 to Nov 2014_ )
@@ -215,9 +213,9 @@ Python3, Jest, Superagent, Node, OWASP ZAP, Watson SDK, Jenkins, Jira
 * Maintaining scenario-driven tests for Continuous Integration process.
 * API functional and security testing.
 
-#### Methodologies: Agile, Scrum, BDD, TDD, Kanban
+#### Methodologies: `Agile`, `Scrum`, `BDD`, `TDD`, `Kanban`
 
-#### Technologies: Linux, PHP, Javascript, AngularJS, MySQL, Mongo, RESTAPI, Github, Zend2, Behat, Mink, Selenium, Goutte, PhantomJS, PHPUnit, SugarCRM, CRM, Jira, Gherkin, Vagrant, VMWare, JMeter,Vagrant, VirtualBox
+#### Technologies: `Linux`, `PHP`, `Javascript`, `AngularJS`, `MySQL`, `Mongo`, `REST`, `Github`, `Zend2`, `Behat`, `Mink`, `Selenium`, `PhantomJS`, `PHPUnit`, `CRM`, `Jira`, `Gherkin`, `Vagrant`, `VMWare`, `JMeter`, `Vagrant`, `VirtualBox`
 
 ## Freelance WordPress/Drupal developer
 ( _Dec 2012 to Jun 2013_ )
@@ -227,9 +225,9 @@ Python3, Jest, Superagent, Node, OWASP ZAP, Watson SDK, Jenkins, Jira
 #### Activities
 As a temporary break from QA and testing world, secured contracts with several small businesses, to develop Drupal/WordPress web applications.
 
-#### Methodologies: Agile, TDD
+#### Methodologies: `Agile`, `TDD`
 
-#### Technologies: WordPress, Drupal, PHP, Payment Gateways, Javascript, XML, JSON, Curl, Social Networking API, Googlemaps API
+#### Technologies: `WordPress`, `Drupal`, `PHP`, `Payment Gateways`, `Javascript`, `XML`, `JSON`, `Curl`, `Facebook API`, `Googlemaps API`
 
 ## KPMG
 ( _Apr 2011 to Dec 2012_ )
@@ -249,10 +247,9 @@ As a temporary break from QA and testing world, secured contracts with several s
 * HMTL5, CSS3 and jQuery testing using Firebug.
 * Coordinated monthly regression tests of all departmental websites produced, after regular Microsoft server patching.
 
-#### Methodologies: Agile, Scrum, TDD, BDD
+#### Methodologies: `Agile`, `Scrum`, `TDD`, `BDD`
 
-#### Technologies
-Team Foundation Server(TFS), VisualStudio2010/2012, MVC, JQuery, HTML5, CSS3, VS Test Tools (WebPerformanceTest, CodedUI, LoadTest), SQLServer2008, C#, .NET4.0, Specflow, Cucumber, Selenium WebDriver, Fitnesse, NUnit, OWSAP (Zed Attack Proxy), Fiddler, Tamper, WCAG tools, Virtual Machines (VM)
+#### Technologies: `TFS`, `VisualStudio`, `MVC`, `JQuery`, `HTML5`, `CSS3`, `CodedUI`,  `SQLServer`, `C#`, `.NET4.0`, `Specflow`, `Selenium`, `Fitnesse`, `NUnit`, `OWSAP ZAP`, `Fiddler`, `Tamper`, `WCAG`
 
 
 ## Digital Jigsaw
