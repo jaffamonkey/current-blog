@@ -5,7 +5,7 @@ date: 2020-02-13T12:21:57-05:00
 
 # Paul Littlebury
 
-## Quality Engineering Lead, Test Strategist, Quality Assurance, Test coaching,
+### Quality Engineering, Test Lead, Test Architect, Quality Assurance, Test Automation
  
 ##### Phone: +44 7546 790019
 ##### Email: paullittlebury@gmail.com
