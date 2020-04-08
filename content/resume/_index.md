@@ -38,7 +38,7 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 
 #### Methodologies: Agile, Scrum, BDD
 
-#### Tech: ```Ruby on Rails, JavaScript, Angular, Azure, Docker, JMteter, Artillery, OWASP ZAP, Pa11y, Cucumber, Webdriver, Jira```
+#### Tech: Ruby on Rails, JavaScript, Angular, Azure, Docker, JMteter, Artillery, OWASP ZAP, Pa11y, Cucumber, Webdriver, Jira
 
 ## Tele2
 ( _Sep 2018 to_ _Mar_ _2019_ )
@@ -58,7 +58,7 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 Agile, Scrum
 
 #### Tech
-```Python3, Jest, Superagent, Node, OWASP ZAP, Watson SDK, Jenkins, Jira```
+Python3, Jest, Superagent, Node, OWASP ZAP, Watson SDK, Jenkins, Jira
 
 ## Engine | Transformation       
 ( _Jun 2017 to Jul 2018_ )
@@ -78,7 +78,7 @@ Agile, Scrum
 
 #### Methodologies: Agile, Scrum, BDD
 
-#### Tech: ```WebdriverIO, NightwatchJS , CucumberJS, Docker, Vagrant, Appium, XCtest, XCUITest, XCode, AndroidSDK, Selenium, Travis, Jira```
+#### Tech: WebdriverIO, NightwatchJS , CucumberJS, Docker, Vagrant, Appium, XCtest, XCUITest, XCode, AndroidSDK, Selenium, Travis, Jira
 
 ## i2N
 ( _Dec 2016 to Apr 2017_ )
@@ -97,7 +97,7 @@ Agile, Scrum
 
 #### Methodologies: Agile, Scrum, BDD
 
-#### Tech: ```AngularJS, CucumberJS, PhantomJS, Marionette, Selenium, JUnit, Jenkins, Jira```
+#### Tech: AngularJS, CucumberJS, PhantomJS, Marionette, Selenium, JUnit, Jenkins, Jira
 
 ## Engine | Transformation
 ( _Jun 2016 to Dec 2016_ )
@@ -115,7 +115,7 @@ Agile, Scrum
 
 #### Methodologies: Agile, Scrum, BDD
 
-#### Tech: ```Java, Spring, AngularJS, CucumberJS, PhantomJS, Gherkin, Selenium, JUnit, Jenkins, Jira```
+#### Tech: Java, Spring, AngularJS, CucumberJS, PhantomJS, Gherkin, Selenium, JUnit, Jenkins, Jira
 
 ## Wowcher
 ( _Jan 2016 to Apr 2016_ )
@@ -133,7 +133,7 @@ Agile, Scrum
 
 #### Methodologies: Agile, Scrum, Kanban
 
-#### Tech: ```CucumberJS, Protractor, Selenium, PhantomJS, Postman, Jira, Gherkin, AngularJS, REST, Github```
+#### Tech: CucumberJS, Protractor, Selenium, PhantomJS, Postman, Jira, Gherkin, AngularJS, REST, Github
 
 ## TNT
 ( _Jul 2015 to Nov 2015_ )
@@ -154,7 +154,7 @@ Agile, Scrum
 
 #### Methodologies: Agile, Scrum, BDD
 
-#### Tech: ```CucumberJS, Jasmine, Selenium, PhantomJS, Jira, Gherkin, CasparJS, AngularJS, REST, Github```
+#### Tech: CucumberJS, Jasmine, Selenium, PhantomJS, Jira, Gherkin, CasparJS, AngularJS, REST, Github
 
 ## Hiveworks
 ( _Mar 2015 to May 2015_ )
@@ -172,7 +172,7 @@ Agile, Scrum
 
 #### Methodologies: Agile, Scrum, BDD
 
-#### Tech: ```PHP, Drupal, AngularJS, ElasticSearch, REST, Github, Behat, Mink, Selenium, Goutte, PhantomJS, PHPUnit, Jira, Gherkin, CasparJS```
+#### Tech: PHP, Drupal, AngularJS, ElasticSearch, REST, Github, Behat, Mink, Selenium, Goutte, PhantomJS, PHPUnit, Jira, Gherkin, CasparJS
 
 ## Engine | Transformation
 ( _Dec 2014 to Mar 2015_ )
@@ -191,7 +191,7 @@ Agile, Scrum
 
 #### Methodologies: Agile, Scrum, BDD
 
-#### Tech: ```PHP, Javascript, Symfony2, REST, Github, Behat, Mink, Selenium, Goutte, PhantomJS, PHPUnit, Jira, Gherkin```
+#### Tech: PHP, Javascript, Symfony2, REST, Github, Behat, Mink, Selenium, Goutte, PhantomJS, PHPUnit, Jira, Gherkin
 
 ## Engine | Transformation
 ( _Sep 2013 to Nov 2014_ )
@@ -217,7 +217,7 @@ Agile, Scrum
 
 #### Methodologies: Agile, Scrum, BDD, TDD, Kanban
 
-#### Technologies: ```Linux, PHP, Javascript, AngularJS, MySQL, Mongo, RESTAPI, Github, Zend2, Behat, Mink, Selenium, Goutte, PhantomJS, PHPUnit, SugarCRM, CRM, Jira, Gherkin, Vagrant, VMWare, JMeter,Vagrant, VirtualBox```
+#### Technologies: Linux, PHP, Javascript, AngularJS, MySQL, Mongo, RESTAPI, Github, Zend2, Behat, Mink, Selenium, Goutte, PhantomJS, PHPUnit, SugarCRM, CRM, Jira, Gherkin, Vagrant, VMWare, JMeter,Vagrant, VirtualBox
 
 ## Freelance WordPress/Drupal developer
 ( _Dec 2012 to Jun 2013_ )
@@ -229,7 +229,7 @@ As a temporary break from QA and testing world, secured contracts with several s
 
 #### Methodologies: Agile, TDD
 
-#### Technologies: ```WordPress, Drupal, PHP, Payment Gateways, Javascript, XML, JSON, Curl, Social Networking API, Googlemaps API```
+#### Technologies: WordPress, Drupal, PHP, Payment Gateways, Javascript, XML, JSON, Curl, Social Networking API, Googlemaps API
 
 ## KPMG
 ( _Apr 2011 to Dec 2012_ )
@@ -252,7 +252,7 @@ As a temporary break from QA and testing world, secured contracts with several s
 #### Methodologies: Agile, Scrum, TDD, BDD
 
 #### Technologies
-```Team Foundation Server(TFS), VisualStudio2010/2012, MVC, JQuery, HTML5, CSS3, VS Test Tools (WebPerformanceTest, CodedUI, LoadTest), SQLServer2008, C#, .NET4.0, Specflow, Cucumber, Selenium WebDriver, Fitnesse, NUnit, OWSAP (Zed Attack Proxy), Fiddler, Tamper, WCAG tools, Virtual Machines (VM)```
+Team Foundation Server(TFS), VisualStudio2010/2012, MVC, JQuery, HTML5, CSS3, VS Test Tools (WebPerformanceTest, CodedUI, LoadTest), SQLServer2008, C#, .NET4.0, Specflow, Cucumber, Selenium WebDriver, Fitnesse, NUnit, OWSAP (Zed Attack Proxy), Fiddler, Tamper, WCAG tools, Virtual Machines (VM)
 
 
 ## Digital Jigsaw
@@ -278,7 +278,7 @@ Experience pre-2011 available upon request
 BTEC HND Computing
 
 ### Modules 
-```Project Managmement (Prince2), Business Analysis, System Analysis and Design, Computer Architecture, C, C++, Cobol```
+Project Managmement (Prince2), Business Analysis, System Analysis and Design, Computer Architecture, C, C++, Cobol
 
 
 # LANGUAGES
