@@ -10,7 +10,7 @@ date: 2018-02-13T13:42:49-05:00
 I have provided Quality assurance and Test engineering services to over 50 companies since 1997. These ranged from groundbreaking startups to companies in stages of chaos. But of course, I was not born into testing world.
 
 ## My background
-Of course I was not born with a tester dummy in my mouth, so I will skip the first 27 years of various challenges (not least, Aspergers). I took my first step in 1993 with a practical BTEC HND, then followed a grotty foot-in-the-door contract on a Windows 95 helpdesk, before I started on a freelance path in Quality for over 22 years (on over 100 projects).
+Of course I was not born with a tester dummy in my mouth, but I will skip the first 25   years of various challenges (not least, Aspergers). I took my first step in 1993 with a practical BTEC HND, then followed a grotty foot-in-the-door contract on a Windows 95 helpdesk, before I started on a freelance path in Quality for over 22 years (on over 100 projects).
 
 Testing was pretty mind-numbing work in the late 1990's - heavy on analysis documentation, heavy of reporting, and arch-lever files everywhere (there was always someone who wanted the whole damn lot printed out). Like most in that period, I fell into it as it, certainly wasn't a popular field to work in back then. As for test automation, these were the more challenging days of off-the-shelf third-party software, sold with gusto and commonly sold with the classic line "Do more with less code!".
 
