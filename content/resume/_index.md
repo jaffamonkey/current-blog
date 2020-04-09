@@ -7,7 +7,7 @@ date: 2020-02-13T12:21:57-05:00
 
 ### Quality Engineering, Test Lead, Test Architect, Quality Assurance, Test Automation
  
-##### Phone: +44 7546 790019
+##### Phone: +44 7394 074047
 ##### Email: paullittlebury@gmail.com
 ##### Website: http://www.jaffamonkey.com
 ##### Github: https://github.com/jaffamonkey
