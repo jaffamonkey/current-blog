@@ -6,7 +6,7 @@ date: 2020-02-13T12:21:57-05:00
 ### Pa11y
 {{< jaffamonkey a08b497ff85a41fd7682cacdff1f7292 >}}
 
-### JavaScript related tests
+<!-- ### JavaScript related tests
 {{< jaffamonkey 27c5fbf7667487aafd8105d691166b28 >}}
 {{< jaffamonkey 1d784984a57707c79ae6558fa4074d7e >}}
 {{< jaffamonkey bc708da9a7064097c3d01d3154f13497 >}}
@@ -18,4 +18,4 @@ date: 2020-02-13T12:21:57-05:00
 {{< jaffamonkey 471485bc9bf7317f9d95290678a984b6 >}}
 
 ### Cobol related tests
-{{< jaffamonkey 8622f5bcb2fe5da2f060934b150c5a32 >}}
+{{< jaffamonkey 8622f5bcb2fe5da2f060934b150c5a32 >}} -->
