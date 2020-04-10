@@ -33,6 +33,10 @@ pygmentsCodefences       = true
     text = "resume"
 
 [[params.mainMenu]]
+    link = "/github"
+    text = "github"
+
+[[params.mainMenu]]
     link = "/about"
     text = "who is sam?"
 
