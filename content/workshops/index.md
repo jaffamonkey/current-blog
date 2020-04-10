@@ -14,6 +14,8 @@ Here is an online workshop for Test engineering beginners that I designed for my
 
 [Test engineering workshop](https://www.jaffamonkey.com/training-course/)
 
+[Example test code in JavaScript and Python](https://www.jaffamonkey.com/github/)
+
 While testing skills are important, learning them in context of project as a whole is benefifical and will help testers integrate into teams better.
 
 ### Workshop contents

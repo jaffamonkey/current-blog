@@ -44,8 +44,5 @@ pygmentsCodefences       = true
     link = "/resume"
     text = "resume"
 
-[[params.mainMenu]]
-    link = "/github"
-    text = "github"
 [imaging]
     quality = 75
