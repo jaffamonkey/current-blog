@@ -24,7 +24,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Leading teams in adopting quality as part of way of working.
 * Mentoring less experienced testers in test engineering.
 * Ensuring testing process in line with Development and DevOps.
-* Involving business more directly with quality process.
+* Involving the business more directly with quality process.
 * Proactively promoting quality as means to measure success.
 * Improving quality in CI and CD.
 * Introducing non-functional testing as standard practice.
@@ -226,10 +226,9 @@ Experience pre-2011 available upon request
 # QUALIFICATIONS
 
 ## Huddersfield University
-( _1993 to 1995_ )
-BTEC HND Computing (Modules: Project Management (Prince2), Business Analysis, System Analysis and Design, Computer Architecture, C, C++, Cobol)
+`BTEC HND Computing` (Modules: Project Management (Prince2), Business Analysis, System Analysis and Design, Computer Architecture, C, C++, Cobol)
 
 # LANGUAGES
-* English (Native)
-* German (Basic)
-* French (Basic)
+* `English` (Native)
+* `German` (Basic)
+* `French` (Basic)
