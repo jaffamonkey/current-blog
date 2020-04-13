@@ -94,7 +94,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Devised Test Strategy for both internal and external audience.
 * Building accessibility and security test frameworks.
 * Load testing using jMeter, with a dashboard for reporting.
-* Migrated test framework to use NightwatchJS, as part of handover
+* Migrated test framework to use Nightwatch, as part of handover
 * Maintaining tests in CI/CD.
 
 ## i2N
