@@ -165,12 +165,13 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 #### Project: Symfony (PHP) application for a Civil Service Resourcing job application management.
 
 #### Activities
-* Providing QA on project process, focusing on optimising and reducing administration.
-* Creating a BDD QA Strategy.
+* Providing Quality assurance for project from inception
+* Devising BDD Strategy for team to follow.
 * Achieved 100% automated test coverage for all features for every platform release.
 * Implementing Behat test framework, fully integrated into a Symfony2 bundled app.
 * Integration of tests in the build pipeline, to ensure requirements kept in focus. 
 * Mentoring team members on Behat and Gherkin (specification language).
+* Regular workshop with the Product Owners, to adopt specification by example.
 
 #### Tech: `PHP`, `Javascript`, `Symfony2`, `REST`, `Github`, `Behat`, `Mink`, `Selenium`, `Goutte`, `PhantomJS`, `PHPUnit`, `Jira`, `Gherkin`
 
