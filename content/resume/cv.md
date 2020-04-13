@@ -9,7 +9,7 @@
 
 # SUMMARY
 
-_Detail-oriented, reliable, and forward-thinking, with over 20 years experience in the field of Quality on many Agile projects. I combine test engineering, devops, exploratory testing, test management and quality assurance to provide a more rounded contribution just simply testing. I have 10 years total commercial experience of building test frameworks and coding API, UI and performance tests in JavaScript, Python, C#, Java and PHP. I have expertise in a challenging environments, and will always contribute improvements to process of achieving project goals and objectives. I am frequently involved in DevOps and business decisions, and have mentored both technical and business members of team, to engage more with the quality process._
+_Detail-oriented, reliable, and forward-thinking, with over 20 years experience in the field of Quality on many Agile projects. I combine the disciplines of test engineering, DevOps, exploratory testing, test management and quality assurance to provide a more rounded contribution just simply testing. I have 10 years total commercial experience of building test frameworks and coding API, UI and performance tests. By default, I ensure tests are included in CI/CD pipelines to get the most value. I have expertise in a challenging environments, and will always contribute improvements to process of achieving project goals and objectives. I am frequently involved in DevOps and business decisions, and have mentored both technical and business members of team, to engage more with the quality process._
 
 # KEY SKILLS 
 
@@ -33,19 +33,25 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 # TECHNICAL SKILLS
 
 ### Programming Languages
-`JavaScript`, `Python`, `Ruby`, `Java`, `C#`
+`JavaScript`, `Python`, `PHP`,`Ruby`, `Java`, `C#`
 
 ### Programming Frameworks
-`Ruby on Rails`, `Angular`, `Node`, `React`, `XCode`, `Spring`, `Drupal`
+`Ruby on Rails`, `Angular`, `Node`, `React`, `XCode`, `Spring`, `Drupal`, `Symfony2`, `Zend2`, `MVC`
+
+### Databases
+`SQLServer`, `PostgreSQL`,`MongoDB`, `MySQL`
 
 ### Test Frameworks
-`Jest`,`Cucumber`,`Protractor`, `Behat`, `Appium`, `JUnit`, `Jasmine`, `WebdriverIO`, `CasparJS`
+`Jest`,`Cucumber`,`Protractor`, `Behat`, `Appium`, `JUnit`, `Jasmine`, `WebdriverIO`, `CasparJS`,`PHPUnit`, `Mink`,`Fitnesse`
 
 ### Test Tools
 `Selenium`,`JMeter`, `Artillery`, `OWASP ZAP`,`Pa11y`, `Superagent`, `XCtest`, `XCUITest`
 
 ### DevOps
-`Azure`, `AWS`, `TravisCI`, `Docker`, `Vagrant`,`Jenkins`, `GitHub`, `BitBucket`
+`Azure`, `AWS`, `TravisCI`, `Docker`, `Vagrant`,`Jenkins`, `GitHub`, `BitBucket`, `TFS`,`VMWare`,`VirtualBox`
+
+### Project Management
+`Jira`, `Confluence`
 
 # EXPERIENCE
 
@@ -61,6 +67,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Educating team on how to bring in quality to general way-of-working. 
 * Building frameworks for Load, Security and Accessibility testing.
 * Training BA's on using Specification by Example approach to requirements.
+* Maintaining tests in CI/CD.
 
 ## Tele2
 ( _Sep 2018 to_ _Mar_ _2019_ )
@@ -88,6 +95,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Building accessibility and security test frameworks.
 * Load testing using jMeter, with a dashboard for reporting.
 * Migrated test framework to use NightwatchJS, as part of handover
+* Maintaining tests in CI/CD.
 
 ## i2N
 ( _Dec 2016 to Apr 2017_ )
@@ -102,6 +110,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Mentoring BA's to follow specification by example.
 * Integration of automated acceptance, security and accessibility tests into CI/CD.
 * JMeter API load testing
+* Maintaining tests in CI/CD pipelines.
 
 ## Engine | Transformation
 ( _Jun 2016 to Dec 2016_ )
@@ -114,7 +123,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Providing guidance to the team, on how to follow a BDD approach.
 * Training PO writing user stories in a specification-by-example style.
 * Outlined BDD project process for both internal and external audience. 
-* Integration of automated security and accessibility testing build/deployment pipeline. 
+* Integration of automated security and accessibility testing into CI/CD pipelines. 
 
 ## Wowcher
 ( _Jan 2016 to Apr 2016_ )
@@ -156,8 +165,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Creating cross-browser framework using Selenium Grid.
 * Implementation of PhantomJS/CasparJS app for visual regression testing.
 
-#### Tech: `PHP`, `Drupal`, `AngularJS`, `ElasticSearch`, `REST`, `Github`, `Behat`, `Mink`, `Selenium`, `Goutte`, `PhantomJS`, `PHPUnit`, `Jira`, `Gherkin`, `CasparJS`
-
 ## Engine | Transformation
 ( _Dec 2014 to Mar 2015_ )
 
@@ -173,8 +180,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Mentoring team members on Behat and Gherkin (specification language).
 * Regular workshop with the Product Owners, to adopt specification by example.
 
-#### Tech: `PHP`, `Javascript`, `Symfony2`, `REST`, `Github`, `Behat`, `Mink`, `Selenium`, `Goutte`, `PhantomJS`, `PHPUnit`, `Jira`, `Gherkin`
-
 ## Engine | Transformation
 ( _Sep 2013 to Nov 2014_ )
 
@@ -183,20 +188,18 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 #### Activities
 * Strategic leadership in overall testing approach.
-* Mentored and trained team members on methodologies, tools, and techniques. 
+* Devising BDD testing strategy.
+* Mentored and trained team members on BDD methodologies, tools, and techniques. 
 * Technical expertise role in developing and identifying tools that would improve and optimize quality.
 * Improved productivity by use of test automation frameworks and tools, and educating others.
-* Ensured testing standards, guidelines, and testing methodology were applied as specified in testing approach.
-* Devising testing strategy for functional, browser compatibility and web accessibility testing.
 * Creating and maintaining Behat UI and API testing framework.
-* Integrating testing framework into Jenkins CI and Vagrant VM.
+* Introducing load, accessibility and security test automation as standard practice.
 * User Story/Scenarios development.
 * Gherkin training for Business Analysts.
 * Ongoing implementation of open source tools to improve framework.
 * Maintaining scenario-driven tests for Continuous Integration process.
-* API functional and security testing.
+* Maintaining tests in CI/CD pipelines.
 
-#### Technologies: `Linux`, `PHP`, `Javascript`, `AngularJS`, `MySQL`, `Mongo`, `REST`, `Github`, `Zend2`, `Behat`, `Mink`, `Selenium`, `PhantomJS`, `PHPUnit`, `CRM`, `Jira`, `Gherkin`, `Vagrant`, `VMWare`, `JMeter`, `Vagrant`, `VirtualBox`
 
 ## KPMG
 ( _Apr 2011 to Dec 2012_ )
@@ -214,9 +217,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Devised Security Testing strategy to be used across projects.
 * HMTL5, CSS3 and jQuery testing using Firebug.
 * Coordinated monthly regression tests of all departmental websites.
-
-#### Technologies: `TFS`, `VisualStudio`, `MVC`, `JQuery`, `HTML5`, `CSS3`, `CodedUI`,  `SQLServer`, `C#`, `.NET4.0`, `Specflow`, `Selenium`, `Fitnesse`, `NUnit`, `OWSAP ZAP`, `Fiddler`, `Tamper`, `WCAG`
-
 
 ## Digital Jigsaw
 ( _February 2011 to Apr 2011_ )
