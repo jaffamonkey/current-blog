@@ -70,7 +70,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 #### Project: Drupal/Node application to manage partnerships between businesses and local authorities.
 
 #### Activities
-* Developing test framework using CucumberJS/WebdriverIO, with Appium for mobile testing.
+* Developing test framework using CucumberJS/WebdriverIO, with Appium.
 * Devised Test Strategy for both internal and external audience.
 * Building accessibility and security test frameworks.
 * Load testing using jMeter, with a dashboard for reporting.
@@ -86,10 +86,10 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 #### Activities
 * Developing and maintaining UI/API test framework (CucumberJS/Protractor).
+* Devised Test Strategy, for both internal and external audience.
 * Extensive scenario-based API testing.
-* Providing guidance to the BA's on writing specs in &quot;specification by example&quot; format.
-* Outlined Test Approach for both internal and external audience.
-* Integration of automated acceptance, security and accessibility testing in the build/deployment pipeline.
+* Mentoring BA's to follow specification by example.
+* Integration of automated acceptance, security and accessibility tests into CI/CD.
 * JMeter API load testing
 
 #### Tech: `AngularJS`, `CucumberJS`, `PhantomJS`, `Marionette`, `Selenium`, `JUnit`, `Jenkins`, `Jira`
