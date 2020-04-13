@@ -72,8 +72,8 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 #### Activities
 * Developing test framework using CucumberJS/WebdriverIO, with Appium for mobile testing.
 * Devised Test Strategy for both internal and external audience.
-* Coded dockerized accessibility and security test frameworks.
-* Load testing using jMeter, generating dashboard reports with trend history.
+* Building accessibility and security test frameworks.
+* Load testing using jMeter, with a dashboard for reporting.
 * Migrated test framework to use NightwatchJS, as part of handover
 
 #### Tech: `WebdriverIO`, `NightwatchJS` , `CucumberJS`, `Docker`, `Vagrant`, `Appium`, `XCtest`, `XCUITest`, `XCode`, `AndroidSDK`, `Selenium`, `Travis`, `Jira`
@@ -82,7 +82,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ( _Dec 2016 to Apr 2017_ )
 
 ### Role: Lead Software Development Engineer in Test
-
 #### Project: AngularJS application to manage nationwide young offender placements.
 
 #### Activities
@@ -99,7 +98,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ( _Jun 2016 to Dec 2016_ )
 
 ### Role: Lead Software Development Engineer in Test
-
 #### Project: Java/AngularJS application for NHS Training and Education management system,
 
 #### Activities
@@ -115,7 +113,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ( _Jan 2016 to Apr 2016_ )
 
 ### Role: Lead Software Development Engineer in Test
-
 #### Project: AngularJS/Node app for voucher management and sales.
 
 #### Activities
@@ -131,7 +128,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ( _Jul 2015 to Nov 2015_ )
 
 ### Role: Lead Software Development Engineer in Test
-
 #### Project: AngularJS web app aimed at improving user experience for TNT customers.
 
 #### Activities
@@ -150,7 +146,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ( _Mar 2015 to May 2015_ )
 
 ### Role: Lead Software Development Engineer in Test
-
 #### Project: Drupal/Node/ElasticSearch CMS web application, aimed at providing content for external users, and means to manage content for Orange brand teams.
 
 #### Activities
@@ -166,7 +161,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ( _Dec 2014 to Mar 2015_ )
 
 ### Role: Lead Software Development Engineer in Test
-
 #### Project: Symfony (PHP) application for a Civil Service Resourcing job application management.
 
 #### Activities
@@ -183,7 +177,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ( _Sep 2013 to Nov 2014_ )
 
 ### Lead Software Development Engineer in Test
-
 #### Project: PHP/AngularJS application for OPG (Office of the Public Guardian) case and task management system, for customers seeking power of attorney. This was replacing an old manual system, with intention of improving turnaround times, and information sharing internally.
 
 #### Activities
@@ -207,7 +200,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ( _Apr 2011 to Dec 2012_ )
 
 ### Role: Test Manager
-
 #### Project: Test Management and testing on multiple web-based tax, finance and public sector projects.
 
 #### Activities
@@ -217,9 +209,9 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Coding functional and non-functional tests
 * Writing BDD features alongside Business Analysts
 * Promoted the use of TFS test tools to the teams.
-* Devised Security Testing strategy to be used across projects, using open source tools.
+* Devised Security Testing strategy to be used across projects.
 * HMTL5, CSS3 and jQuery testing using Firebug.
-* Coordinated monthly regression tests of all departmental websites produced, after regular Microsoft server patching.
+* Coordinated monthly regression tests of all departmental websites.
 
 #### Technologies: `TFS`, `VisualStudio`, `MVC`, `JQuery`, `HTML5`, `CSS3`, `CodedUI`,  `SQLServer`, `C#`, `.NET4.0`, `Specflow`, `Selenium`, `Fitnesse`, `NUnit`, `OWSAP ZAP`, `Fiddler`, `Tamper`, `WCAG`
 
@@ -228,7 +220,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ( _February 2011 to Apr 2011_ )
 
 ### Role: Test Manager (Holiday Cover)
-
 #### Project: MyVodafone customer account app (with dynamic hotspot locator/connector) for Android, iPhone and Blackberry.
 
 #### Activities
@@ -248,7 +239,6 @@ BTEC HND Computing
 
 ### Modules 
 Project Managmement (Prince2), Business Analysis, System Analysis and Design, Computer Architecture, C, C++, Cobol
-
 
 # LANGUAGES
 
