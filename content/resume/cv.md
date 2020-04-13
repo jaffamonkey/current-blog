@@ -1,11 +1,11 @@
 
 # PERSONAL INFO
 
-### Name: Paul Littlebury 
-##### Phone: +44 7394 074047
-##### Email: paullittlebury@gmail.com
-##### Website: http://www.jaffamonkey.com
-##### Github: https://github.com/jaffamonkey
+* Name: Paul Littlebury 
+* Phone: +44 7394 074047
+* Email: paullittlebury@gmail.com
+* Website: http://www.jaffamonkey.com
+* Github: https://github.com/jaffamonkey
 
 # SUMMARY
 
@@ -17,6 +17,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Test Management
 * Test Architect
 * Test coaching
+* Remote working
 
 ## HIGHLIGHTS
 
@@ -26,7 +27,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Ensuring testing process in line with Development and DevOps.
 * Involving the business more directly with quality process.
 * Proactively promoting quality as means to measure success.
-* Improving quality in CI and CD.
+* Improving quality in `CI`.
 * Introducing non-functional testing as standard practice.
 * `Agile`, `Scrum`, `BDD`, and `Kanban` project experience.
 
@@ -36,6 +37,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ( _Jun_ _2019 to_ _Oct_ _2019_ )
 
 **Role**: Lead SDET
+
 **Project**: A feature-rich training and career development `Ruby-on-rails` web app for civil service recruitment. 
 
 **Activities**:
@@ -51,7 +53,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 **Role**: Lead Quality Engineer
 
-**Project**: Quality engineering for an custom `AI` Chatbot (using the `IBM Watson` service).
+**Project**: Quality engineering for a custom `AI` Chatbot, developed using `Python` with `IBM Watson` service
 
 **Activities**:
 * Developing `Python` framework to bulk test `IBM Watson` Chatbot API.
@@ -59,8 +61,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Maintaining `Jest` framework to test web administration app.
 * Leading testers working on the public-facing web and mobile apps.
 * Implementing `load` and `security` tests on `CI`.
-* Devising `Test strategy`
-*  Delivering presentations at Sprint demos.
+* Devising `Test strategy` and presenting to the business.
 
 ## Engine | Transformation       
 ( _Jun 2017 to Jul 2018_ )
@@ -79,7 +80,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 ## i2N
 ( _Dec 2016 to Apr 2017_ )
-
 **Role**: Lead SDET
 
 **Project**: `AngularJS` application to manage nationwide young offender placements.
@@ -87,7 +87,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 **Activities**:
 * Developing and maintaining UI/API test framework (`CucumberJS`/`Protractor`).
 * Devised Test Strategy, for both internal and external audience.
-* Extensive scenario-based API testing.
 * Mentoring BA's to follow specification by example.
 * Integration of automated acceptance, security and accessibility tests into `CI`/`CD`.
 * API `load` testing with `JMeter`.
@@ -114,11 +113,11 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 **Project**: `AngularJS`/`Node` app for voucher management and sales.
 
 #### Activities
-* Development of OS-independent CucumberJS/Protractor framework.
+* Development of OS-independent `CucumberJS`/`Protractor` framework.
 * Coding data-independent UI and API user journey tests.
 * Mentoring and leading other test engineers, bringing them up to speed using `CucumberJS`/`Protractor`.
 * Devising strategy for integrating automated acceptance tests into build pipeline.
-* JMeter API load testing
+* `JMeter` API load testing
 
 ## TNT
 ( _Jul 2015 to Nov 2015_ )
@@ -191,8 +190,9 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 **Activities**:
 * Process improvement for testing on Agile and `BDD` projects.
 * Maintained a common risk-based test strategy, and individuals test plans.
-* Test automation strategy for load and regression testing.
+* Test automation strategy for `load` and `regression` testing.
 * Coding functional and non-functional tests using `Visual Studio` test tools.
+* Developing `Specflow` test framework for `BDD` projects.
 * Writing `BDD` features alongside Business Analysts.
 * Devised `Security` Testing strategy to be used across projects.
 * Coordinated monthly regression tests of all departmental websites.
@@ -213,7 +213,7 @@ Experience pre-2011 available upon request
 
 # TECHNICAL SKILLS
 
-### Programming Frameworks
+### Frameworks
 `Ruby on Rails`, `Angular`, `Node`, `React`, `XCode`, `Spring`, `Drupal`, `Symfony2`, `Zend2`, `MVC`
 
 ### Databases
