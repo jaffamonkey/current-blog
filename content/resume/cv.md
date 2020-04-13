@@ -177,7 +177,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Achieved 100% automated test coverage for all features for every platform release.
 * Implementing Behat test framework, fully integrated into a Symfony2 bundled app.
 * Integration of tests in the build pipeline, to ensure requirements kept in focus. 
-* Mentoring team members on Behat and Gherkin (specification language).
 * Regular workshop with the Product Owners, to adopt specification by example.
 
 ## Engine | Transformation
@@ -188,18 +187,13 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 #### Activities
 * Strategic leadership in overall testing approach.
-* Devising BDD testing strategy.
+* Devising BDD testing strategy and exploratory test approach
 * Mentored and trained team members on BDD methodologies, tools, and techniques. 
-* Technical expertise role in developing and identifying tools that would improve and optimize quality.
-* Improved productivity by use of test automation frameworks and tools, and educating others.
 * Creating and maintaining Behat UI and API testing framework.
 * Introducing load, accessibility and security test automation as standard practice.
-* User Story/Scenarios development.
-* Gherkin training for Business Analysts.
-* Ongoing implementation of open source tools to improve framework.
-* Maintaining scenario-driven tests for Continuous Integration process.
+* Gherkin training and mentoring for Product Owners.
+* Maintaining scenario-driven tests for CI pipeline.
 * Maintaining tests in CI/CD pipelines.
-
 
 ## KPMG
 ( _Apr 2011 to Dec 2012_ )
@@ -211,11 +205,9 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Process improvement for testing on Agile and BDD projects.
 * Maintained a common risk-based test strategy, and individuals test plans.
 * Test automation strategy for load and regression testing.
-* Coding functional and non-functional tests
-* Writing BDD features alongside Business Analysts
-* Promoted the use of TFS test tools to the teams.
+* Coding functional and non-functional tests using Visual Studio test tools.
+* Writing BDD features alongside Business Analysts.
 * Devised Security Testing strategy to be used across projects.
-* HMTL5, CSS3 and jQuery testing using Firebug.
 * Coordinated monthly regression tests of all departmental websites.
 
 ## Digital Jigsaw
