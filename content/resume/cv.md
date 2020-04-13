@@ -140,7 +140,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 **Role**: Lead SDET
 
-**Project**: Drupal/Node/ElasticSearch CMS web application, aimed at providing content for external users, and means to manage content for Orange brand teams.
+**Project**: `Drupal`/`Node`/`ElasticSearch` CMS web application, aimed at providing content for external users, and means to manage content for Orange brand teams.
 
 **Activities**:
 * Rapidly improving test coverage during project final phase.
@@ -186,7 +186,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 **Role**: Test Manager
 
-**Project**: Test Management and testing on multiple web-based tax, finance and public sector projects.
+**Project**: Test Management and testing on multiple `C#` web-based tax, finance and public sector projects.
 
 **Activities**:
 * Process improvement for testing on Agile and `BDD` projects.
