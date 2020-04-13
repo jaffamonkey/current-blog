@@ -35,11 +35,11 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Engine | Transformation
 ( _Jun_ _2019 to_ _Oct_ _2019_ )
 
-### Role: Lead Software Development Engineer in Test
+### Role: Lead SDET
 #### Project: A feature-rich training and career development web app for civil service recruitment. I was brought on at early stage to ensure a quality-driven August Beta release.
 
 #### Activities
-* Developing acceptance UI/API test framework with ruby-on-rails and CucumberJS.
+* Developing acceptance CucumberJS UI/API test framework within  Ruby-on-rails app.
 * Mentoring a small team of internal testers.
 * Educating team on how to bring in quality to general way-of-working. 
 * Building frameworks for Load, Security and Accessibility testing.
@@ -53,7 +53,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 #### Project: Quality engineering for an custom AI Chatbot (using the IBM Watson service).
 
 #### Activities
-* Creating Python framework to bulk test IBM Watson Chatbot API.
+* Developing Python framework to bulk test IBM Watson Chatbot API.
 * Creating over 40k training/test sets.
 * Maintaining Jest framework to test web administration app.
 * Leading testers working on the public-facing web and mobile apps.
@@ -63,11 +63,11 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Engine | Transformation       
 ( _Jun 2017 to Jul 2018_ )
 
-### Role: Lead Software Development Engineer in Test
+### Role: Lead SDET
 #### Project: Drupal/Node application to manage partnerships between businesses and local authorities.
 
 #### Activities
-* Developing test framework using CucumberJS/WebdriverIO, with Appium.
+* Developing CucumberJS/WebdriverIO/Appium test framework.
 * Devised Test Strategy for both internal and external audience.
 * Building accessibility and security test frameworks.
 * Load testing using jMeter, with a dashboard for reporting.
@@ -77,7 +77,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## i2N
 ( _Dec 2016 to Apr 2017_ )
 
-### Role: Lead Software Development Engineer in Test
+### Role: Lead SDET
 #### Project: AngularJS application to manage nationwide young offender placements.
 
 #### Activities
@@ -92,7 +92,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Engine | Transformation
 ( _Jun 2016 to Dec 2016_ )
 
-### Role: Lead Software Development Engineer in Test
+### Role: Lead SDET
 #### Project: Java/AngularJS application for NHS Training and Education management system,
 
 #### Activities
@@ -105,7 +105,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Wowcher
 ( _Jan 2016 to Apr 2016_ )
 
-### Role: Lead Software Development Engineer in Test
+### Role: Lead SDET
 #### Project: AngularJS/Node app for voucher management and sales.
 
 #### Activities
@@ -118,7 +118,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## TNT
 ( _Jul 2015 to Nov 2015_ )
 
-### Role: Lead Software Development Engineer in Test
+### Role: Lead SDET
 #### Project: AngularJS web app aimed at improving user experience for TNT customers.
 
 #### Activities
@@ -132,7 +132,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Hiveworks
 ( _Mar 2015 to May 2015_ )
 
-### Role: Lead Software Development Engineer in Test
+### Role: Lead SDET
 #### Project: Drupal/Node/ElasticSearch CMS web application, aimed at providing content for external users, and means to manage content for Orange brand teams.
 
 #### Activities
@@ -145,7 +145,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Engine | Transformation
 ( _Dec 2014 to Mar 2015_ )
 
-### Role: Lead Software Development Engineer in Test
+### Role: Lead SDET
 #### Project: Symfony (PHP) application for a Civil Service Resourcing job application management.
 
 #### Activities
@@ -159,15 +159,15 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Engine | Transformation
 ( _Sep 2013 to Nov 2014_ )
 
-### Lead Software Development Engineer in Test
+### Lead SDET
 #### Project: PHP/AngularJS application for OPG (Office of the Public Guardian) case and task management system, for customers seeking power of attorney. This was replacing an old manual system, with intention of improving turnaround times, and information sharing internally.
 
 #### Activities
 * Strategic leadership in overall testing approach.
-* Devising BDD testing strategy and exploratory test approach
+* Devising BDD strategy and exploratory test approach
 * Mentored and trained team members on BDD methodologies, tools, and techniques. 
-* Creating and maintaining Behat UI and API testing framework.
-* Introducing load, accessibility and security test automation as standard practice.
+* Developing Behat UI/API testing framework.
+* Introducing load, accessibility and security testing as standard practice.
 * Gherkin training and mentoring for Product Owners.
 * Maintaining scenario-driven tests for CI pipeline.
 * Maintaining tests in CI/CD pipelines.
