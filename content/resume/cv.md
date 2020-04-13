@@ -30,6 +30,20 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Introducing non-functional testing as standard practice.
 * `Agile`, `Scrum`, `BDD`, and `Kanban` project experience.
 
+# TECHNICAL SKILLS
+
+### Programming Languages
+`Ruby on Rails`, `JavaScript`, `Angular`, `Azure`, `Docker`, `JMeter`, `Artillery`, `OWASP ZAP`, `Pa11y`, `Cucumber`, `Webdriver`, `Jira`, `Python3`, `Jest`, `Superagent`, `Node`, `OWASP ZAP`, `Watson SDK`, `Jenkins`, `Jira`,`WebdriverIO`, `NightwatchJS` , `CucumberJS`, `Docker`, `Vagrant`, `Appium`, `XCtest`, `XCUITest`, `XCode`, `AndroidSDK`, `Selenium`, `Travis`, `Jira`,`AngularJS`, `CucumberJS`, `PhantomJS`, `Marionette`, `Selenium`, `JUnit`, `Jenkins`, `Jira`,`Java`, `Spring`, `AngularJS`, `CucumberJS`, `PhantomJS`, `Gherkin`, `Selenium`, `JUnit`, `Jenkins`, `Jira`, `CucumberJS`, `Protractor`, `Selenium`, `PhantomJS`, `Postman`, `Jira`, `Gherkin`, `AngularJS`, `REST`, `Github`, `CucumberJS`, `Jasmine`, `Selenium`, `PhantomJS`, `Jira`, `Gherkin`, `CasparJS`, `AngularJS`, `REST`, `Github`
+
+### Test Frameworks
+
+### Test Tools
+
+### DevOps
+
+
+
+
 # EXPERIENCE
 
 ## Engine | Transformation
@@ -45,8 +59,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Building frameworks for Load, Security and Accessibility testing.
 * Training BA's on using Specification by Example approach to requirements.
 
-#### Tech: `Ruby on Rails`, `JavaScript`, `Angular`, `Azure`, `Docker`, `JMeter`, `Artillery`, `OWASP ZAP`, `Pa11y`, `Cucumber`, `Webdriver`, `Jira`
-
 ## Tele2
 ( _Sep 2018 to_ _Mar_ _2019_ )
 
@@ -61,8 +73,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Implementing load and security test son the build server.
 * Maintaining test strategy and delivering presentations at Sprint demos.
 
-#### Tech: `Python3`, `Jest`, `Superagent`, `Node`, `OWASP ZAP`, `Watson SDK`, `Jenkins`, `Jira`
-
 ## Engine | Transformation       
 ( _Jun 2017 to Jul 2018_ )
 
@@ -75,8 +85,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Building accessibility and security test frameworks.
 * Load testing using jMeter, with a dashboard for reporting.
 * Migrated test framework to use NightwatchJS, as part of handover
-
-#### Tech: `WebdriverIO`, `NightwatchJS` , `CucumberJS`, `Docker`, `Vagrant`, `Appium`, `XCtest`, `XCUITest`, `XCode`, `AndroidSDK`, `Selenium`, `Travis`, `Jira`
 
 ## i2N
 ( _Dec 2016 to Apr 2017_ )
@@ -92,8 +100,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Integration of automated acceptance, security and accessibility tests into CI/CD.
 * JMeter API load testing
 
-#### Tech: `AngularJS`, `CucumberJS`, `PhantomJS`, `Marionette`, `Selenium`, `JUnit`, `Jenkins`, `Jira`
-
 ## Engine | Transformation
 ( _Jun 2016 to Dec 2016_ )
 
@@ -106,8 +112,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Training PO writing user stories in a specification-by-example style.
 * Outlined BDD project process for both internal and external audience. 
 * Integration of automated security and accessibility testing build/deployment pipeline. 
-
-#### Tech: `Java`, `Spring`, `AngularJS`, `CucumberJS`, `PhantomJS`, `Gherkin`, `Selenium`, `JUnit`, `Jenkins`, `Jira`
 
 ## Wowcher
 ( _Jan 2016 to Apr 2016_ )
@@ -122,8 +126,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Devising strategy for integrating automated acceptance tests into build pipeline.
 * JMeter API load testing
 
-#### Tech: `CucumberJS`, `Protractor`, `Selenium`, `PhantomJS`, `Postman`, `Jira`, `Gherkin`, `AngularJS`, `REST`, `Github`
-
 ## TNT
 ( _Jul 2015 to Nov 2015_ )
 
@@ -137,8 +139,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Mentoring PO and BA's in writing requirements in Gherkin format.
 * Visual regression testing, based on UX designs.
 * JMeter API performance testing.
-
-#### Tech: `CucumberJS`, `Jasmine`, `Selenium`, `PhantomJS`, `Jira`, `Gherkin`, `CasparJS`, `AngularJS`, `REST`, `Github`
 
 ## Hiveworks
 ( _Mar 2015 to May 2015_ )
