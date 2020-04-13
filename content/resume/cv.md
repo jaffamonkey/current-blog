@@ -4,19 +4,19 @@
 * Name: Paul Littlebury 
 * Phone: +44 7394 074047
 * Email: paullittlebury@gmail.com
-* Website: http://www.jaffamonkey.com
+* Website: https://www.jaffamonkey.com
 * Github: https://github.com/jaffamonkey
 
 # SUMMARY
 
-_Detail-oriented, reliable, and forward-thinking, with over 20 years experience in the field of Quality on many Agile projects. I combine the disciplines of test engineering, DevOps, exploratory testing, test management and quality assurance to provide a more rounded contribution just simply testing. I have 10 years total commercial experience of building test frameworks and coding API, UI and performance tests. By default, I ensure tests are included in CI/CD pipelines to get the most value. I have expertise in a challenging environments, and contribute improvements to process of achieving project goals and objectives. I am frequently involved in DevOps and business decisions, and have mentored both technical and business members of team, to engage more with the quality process._
+_Detail-oriented, reliable, and forward-thinking, with over 20 years experience in the field of Quality on many Agile projects. I combine the disciplines of test engineering, DevOps, exploratory testing, test management and quality assurance to provide a more rounded contribution than simply testing.  10 years total commercial experience of building test frameworks and coding API, UI and performance tests.  Ensure maximum value, by ensuring tests are included in CI/CD pipelines. Expertise in a challenging environments, and contributing improvements to the process of achieving project goals and objectives.  Frequently involved in DevOps and business decisions, and have mentored both technical and business members of team, to engage more with the quality process.._
 
 # KEY SKILLS 
 
 * Quality Engineering
 * Test Management
 * Test Architect
-* Test coaching
+* Team coaching
 * Remote working
 
 ## HIGHLIGHTS
@@ -53,7 +53,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 **Role**: Lead Quality Engineer
 
-**Project**: Quality engineering for a custom `AI` Chatbot, developed using `Python` with `IBM Watson` service
+**Project**: Custom `AI` Chatbot, developed using `Python` with `IBM Watson` service
 
 **Activities**:
 * Developing `Python` framework to bulk test `IBM Watson` Chatbot API.
