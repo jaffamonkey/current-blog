@@ -20,7 +20,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 # HIGHLIGHTS
 
-* Experience in test engineering in multiple languages (`JavaScript`, `Python`, `Ruby`, `Java`, `C#`).
+* Experience in test engineering in multiple languages ().
 * Leading teams in adopting quality as part of way of working.
 * Mentoring less experienced testers in test engineering.
 * Ensuring testing process in line with Development and DevOps.
@@ -33,16 +33,19 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 # TECHNICAL SKILLS
 
 ### Programming Languages
-`Ruby on Rails`, `JavaScript`, `Angular`, `Azure`, `Docker`, `JMeter`, `Artillery`, `OWASP ZAP`, `Pa11y`, `Cucumber`, `Webdriver`, `Jira`, `Python3`, `Jest`, `Superagent`, `Node`, `OWASP ZAP`, `Watson SDK`, `Jenkins`, `Jira`,`WebdriverIO`, `NightwatchJS` , `CucumberJS`, `Docker`, `Vagrant`, `Appium`, `XCtest`, `XCUITest`, `XCode`, `AndroidSDK`, `Selenium`, `Travis`, `Jira`,`AngularJS`, `CucumberJS`, `PhantomJS`, `Marionette`, `Selenium`, `JUnit`, `Jenkins`, `Jira`,`Java`, `Spring`, `AngularJS`, `CucumberJS`, `PhantomJS`, `Gherkin`, `Selenium`, `JUnit`, `Jenkins`, `Jira`, `CucumberJS`, `Protractor`, `Selenium`, `PhantomJS`, `Postman`, `Jira`, `Gherkin`, `AngularJS`, `REST`, `Github`, `CucumberJS`, `Jasmine`, `Selenium`, `PhantomJS`, `Jira`, `Gherkin`, `CasparJS`, `AngularJS`, `REST`, `Github`
+`JavaScript`, `Python`, `Ruby`, `Java`, `C#`
+
+### Programming Frameworks
+`Ruby on Rails`, `Angular`, `Node`, `React`, `XCode`, `Spring`, `Drupal`
 
 ### Test Frameworks
+`Jest`,`Cucumber`,`Protractor`, `Behat`, `Appium`, `JUnit`, `Jasmine`, `WebdriverIO`, `CasparJS`
 
 ### Test Tools
+`Selenium`,`JMeter`, `Artillery`, `OWASP ZAP`,`Pa11y`, `Superagent`, `XCtest`, `XCUITest`
 
 ### DevOps
-
-
-
+`Azure`, `AWS`, `TravisCI`, `Docker`, `Vagrant`,`Jenkins`, `GitHub`, `BitBucket`
 
 # EXPERIENCE
 
@@ -164,7 +167,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 #### Activities
 * Providing QA on project process, focusing on optimising and reducing administration.
 * Creating a BDD QA Strategy.
-* Acheived 100% automated test coverage for all features for every platform release.
+* Achieved 100% automated test coverage for all features for every platform release.
 * Implementing Behat test framework, fully integrated into a Symfony2 bundled app.
 * Integration of tests in the build pipeline, to ensure requirements kept in focus. 
 * Mentoring team members on Behat and Gherkin (specification language).
@@ -221,30 +224,19 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 #### Project: MyVodafone customer account app (with dynamic hotspot locator/connector) for Android, iPhone and Blackberry.
 
 #### Activities
-* Vodafone VIP site maintenance
-vMaintaining existing test plans, and testing releases of mobile applications (iOS, Android &amp; Blackberry).
+* Vodafone VIP site maintenance.
+*  Maintaining existing test plans, and testing releases of mobile applications.
 * Testing reviews with client representatives at Vodafone, and the in-house testing team.
 
 Experience pre-2011 available upon request
 
-# EDUCATION
+# QUALIFICATIONS
 
 ## Huddersfield University
 ( _1993 to 1995_ )
-
-### Qualification
-BTEC HND Computing
-
-### Modules 
-Project Managmement (Prince2), Business Analysis, System Analysis and Design, Computer Architecture, C, C++, Cobol
+BTEC HND Computing (Modules: Project Management (Prince2), Business Analysis, System Analysis and Design, Computer Architecture, C, C++, Cobol)
 
 # LANGUAGES
-
-## English
-Native
-
-## German
-Limited working proficiency)
-
-## French
-Limited working proficiency
+* English (Native)
+* German (Basic)
+* French (Basic)
