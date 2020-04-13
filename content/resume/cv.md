@@ -1,7 +1,7 @@
-# Paul Littlebury
 
-### Quality Engineering, Test Lead, Test Architect, Test Automation
- 
+# PERSONAL INFO
+
+### Name: Paul Littlebury 
 ##### Phone: +44 7394 074047
 ##### Email: paullittlebury@gmail.com
 ##### Website: http://www.jaffamonkey.com
@@ -11,9 +11,16 @@
 
 _Detail-oriented, reliable, and forward-thinking, with over 20 years experience in the field of Quality on many Agile projects. I combine test engineering, devops, exploratory testing, test management and quality assurance to provide a more rounded contribution just simply testing. I have 10 years total commercial experience of building test frameworks and coding API, UI and performance tests in JavaScript, Python, C#, Java and PHP. I have expertise in a challenging environments, and will always contribute improvements to process of achieving project goals and objectives. I am frequently involved in DevOps and business decisions, and have mentored both technical and business members of team, to engage more with the quality process._
 
+# KEY SKILLS 
+
+* Quality Engineering
+* Test Management
+* Test Architect
+* Test coaching
+
 # HIGHLIGHTS
 
-* Experience test engineering in multiple languages.
+* Experience in test engineering in multiple languages (`JavaScript`, `Python`, `Ruby`, `Java`, `C#`).
 * Leading teams in adopting quality as part of way of working.
 * Mentoring less experienced testers in test engineering.
 * Ensuring testing process in line with Development and DevOps.
