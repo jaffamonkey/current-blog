@@ -101,10 +101,10 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 #### Project: Java/AngularJS application for NHS Training and Education management system,
 
 #### Activities
-* Developing and maintaining UI/API test * framework (CucumberJS/Protractor), for Java/Spring/AngularJS web application.
-* Providing guidance to the team, on how to follow a BDD approach, from requirements through to the deployment pipeline.
-* Training on writing user stories in a specification-by-example approach.
-* Outlined BDD project process for both internal and external audience. Maintaining test automation momentum, as an integral part of user story acceptance.
+* Developing and maintaining UI/API test * framework (CucumberJS/Protractor).
+* Providing guidance to the team, on how to follow a BDD approach.
+* Training PO writing user stories in a specification-by-example style.
+* Outlined BDD project process for both internal and external audience. 
 * Integration of automated security and accessibility testing build/deployment pipeline. 
 
 #### Tech: `Java`, `Spring`, `AngularJS`, `CucumberJS`, `PhantomJS`, `Gherkin`, `Selenium`, `JUnit`, `Jenkins`, `Jira`
@@ -131,14 +131,12 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 #### Project: AngularJS web app aimed at improving user experience for TNT customers.
 
 #### Activities
-* QA Process improvements for project life cycle.
-* Maintenance and improvement of Cucumber/* * Protractor UI/API acceptance testing framework.
-* Integrating BDD tests into development pipeline to ensure requirements consistency and quality.
-* Creating the Test Strategy, Test Plan, Level of effort and defined the overall scope and Test estimates.
-* Instructing product owners/business analysts on writing requirements in BDD format.
-* Visual regression automation, based on UX designs.
+* QA Process improvements from requirements through to CI.
+* Maintenance and improvement of Cucumber/Protractor UI/API test framework.
+* Integrating BDD tests CI and CD.
+* Mentoring PO and BA's in writing requirements in Gherkin format.
+* Visual regression testing, based on UX designs.
 * JMeter API performance testing.
-* Agile testing process improvement
 
 #### Tech: `CucumberJS`, `Jasmine`, `Selenium`, `PhantomJS`, `Jira`, `Gherkin`, `CasparJS`, `AngularJS`, `REST`, `Github`
 
