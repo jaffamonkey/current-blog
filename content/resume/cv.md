@@ -35,7 +35,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Engine | Transformation
 ( _Jun_ _2019 to_ _Oct_ _2019_ )
 
-### Role: Lead Developer in Test
+### Role: Lead Software Development Engineer in Test
 #### Project: A feature-rich training and career development web app for civil service recruitment. I was brought on at early stage to ensure a quality-driven August Beta release.
 
 #### Activities
@@ -81,7 +81,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## i2N
 ( _Dec 2016 to Apr 2017_ )
 
-### Role: Lead Software Development Engineer in Test (SDET)
+### Role: Lead Software Development Engineer in Test
 
 #### Project: AngularJS application to manage nationwide young offender placements.
 
@@ -98,7 +98,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Engine | Transformation
 ( _Jun 2016 to Dec 2016_ )
 
-### Role: Lead Test Engineer
+### Role: Lead Software Development Engineer in Test
 
 #### Project: Java/AngularJS application for NHS Training and Education management system,
 
@@ -114,7 +114,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Wowcher
 ( _Jan 2016 to Apr 2016_ )
 
-### Role: Lead Test Engineer
+### Role: Lead Software Development Engineer in Test
 
 #### Project: AngularJS/Node app for voucher management and sales.
 
@@ -130,7 +130,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## TNT
 ( _Jul 2015 to Nov 2015_ )
 
-### Role: Lead Developer in Test
+### Role: Lead Software Development Engineer in Test
 
 #### Project: AngularJS web app aimed at improving user experience for TNT customers.
 
@@ -149,7 +149,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Hiveworks
 ( _Mar 2015 to May 2015_ )
 
-### Role: Lead Developer in Test
+### Role: Lead Software Development Engineer in Test
 
 #### Project: Drupal/Node/ElasticSearch CMS web application, aimed at providing content for external users, and means to manage content for Orange brand teams.
 
@@ -165,7 +165,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Engine | Transformation
 ( _Dec 2014 to Mar 2015_ )
 
-### Role: Lead Developer in Test
+### Role: Lead Software Development Engineer in Test
 
 #### Project: Symfony (PHP) application for a Civil Service Resourcing job application management.
 
@@ -182,7 +182,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Engine | Transformation
 ( _Sep 2013 to Nov 2014_ )
 
-### Lead Developer in Test
+### Lead Software Development Engineer in Test
 
 #### Project: PHP/AngularJS application for OPG (Office of the Public Guardian) case and task management system, for customers seeking power of attorney. This was replacing an old manual system, with intention of improving turnaround times, and information sharing internally.
 
@@ -202,16 +202,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * API functional and security testing.
 
 #### Technologies: `Linux`, `PHP`, `Javascript`, `AngularJS`, `MySQL`, `Mongo`, `REST`, `Github`, `Zend2`, `Behat`, `Mink`, `Selenium`, `PhantomJS`, `PHPUnit`, `CRM`, `Jira`, `Gherkin`, `Vagrant`, `VMWare`, `JMeter`, `Vagrant`, `VirtualBox`
-
-## Freelance WordPress/Drupal developer
-( _Dec 2012 to Jun 2013_ )
-
-### Role: WordPress/Drupal developer
-
-#### Activities
-As a temporary break from QA and testing world, secured contracts with several small businesses, to develop Drupal/WordPress web applications.
-
-#### Technologies: `WordPress`, `Drupal`, `PHP`, `Payment Gateways`, `Javascript`, `XML`, `JSON`, `Curl`, `Facebook API`, `Googlemaps API`
 
 ## KPMG
 ( _Apr 2011 to Dec 2012_ )
