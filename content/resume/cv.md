@@ -42,7 +42,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Developing acceptance `CucumberJS` UI/API test framework within a `Ruby-on-rails` app.
 * Mentoring a small team of internal testers.
 * Educating team on how to bring in quality to a general way-of-working. 
-* Building frameworks for Load, Security and Accessibility testing.
+* Building frameworks for `Load`, `Security` and `Accessibility` testing.
 * Training BA's on using Specification by Example approach to requirements.
 * Maintaining tests in `CI`/`CD`.
 
@@ -58,8 +58,9 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Creating over 40k training/test sets.
 * Maintaining `Jest` framework to test web administration app.
 * Leading testers working on the public-facing web and mobile apps.
-* Implementing load and security tests on `CI`.
-* Maintaining test strategy and delivering presentations at Sprint demos.
+* Implementing `load` and `security` tests on `CI`.
+* Devising `Test strategy`
+*  Delivering presentations at Sprint demos.
 
 ## Engine | Transformation       
 ( _Jun 2017 to Jul 2018_ )
@@ -71,8 +72,8 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 **Activities**:
 * Developing `CucumberJS`/`WebdriverIO`/`Appium` test framework.
 * Devised Test Strategy for both internal and external audience.
-* Building accessibility and security test frameworks.
-* Load testing using jMeter, with a dashboard for reporting.
+* Building `accessibility` and `security` test frameworks.
+* Load testing using `jMeter`, with a dashboard for reporting.
 * Migrated test framework to use `Nightwatch`, as part of handover
 * Maintaining tests in `CI`/`CD`.
 
@@ -86,10 +87,10 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 **Activities**:
 * Developing and maintaining UI/API test framework (`CucumberJS`/`Protractor`).
 * Devised Test Strategy, for both internal and external audience.
-* Extensive scenario-based `API` testing.
+* Extensive scenario-based API testing.
 * Mentoring BA's to follow specification by example.
 * Integration of automated acceptance, security and accessibility tests into `CI`/`CD`.
-* JMeter API load testing
+* API `load` testing with `JMeter`.
 
 ## Engine | Transformation
 ( _Jun 2016 to Dec 2016_ )
@@ -99,7 +100,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 **Project**: `Java`/`AngularJS` application for NHS Training and Education management system,
 
 **Activities**:
-* Developing and maintaining `UI`/`API` test * framework (`CucumberJS`/`Protractor`).
+* Developing and maintaining UI/API test * framework (`CucumberJS`/`Protractor`).
 * Providing guidance to the team, on how to follow a BDD approach.
 * Training PO's writing user stories in a specification-by-example style.
 * Outlined BDD project process for both internal and external audience. 
@@ -128,11 +129,11 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 #### Activities
 * QA Process improvements from requirements through to CI.
-* Maintenance and improvement of Cucumber/Protractor UI/API test framework.
-* Integrating BDD tests CI and CD.
-* Mentoring PO and BA's in writing requirements in Gherkin format.
+* Maintenance and improvement of `Cucumber`/`Protractor` UI/API test framework.
+* Integrating BDD tests `CI` and `CD`.
+* Mentoring PO and BA's in writing requirements in `Gherkin` format.
 * Visual regression testing, based on UX designs.
-* JMeter API performance testing.
+* `JMeter` API `load` testing.
 
 ## Hiveworks
 ( _Mar 2015 to May 2015_ )
@@ -143,10 +144,10 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 **Activities**:
 * Rapidly improving test coverage during project final phase.
-* Maintaining/extending BDD test suite (Behat/Mink).
+* Maintaining/extending BDD test suite (`Behat`/`Mink`).
 * Process improvement to enable better issue management lifecycle and traceability.
-* Creating cross-browser framework using Selenium Grid.
-* Implementation of PhantomJS/CasparJS app for visual regression testing.
+* Creating cross-browser framework using `Selenium` Grid.
+* Implementation of `PhantomJS`/`CasparJS` app for visual regression testing.
 
 ## Engine | Transformation
 ( _Dec 2014 to Mar 2015_ )
@@ -157,9 +158,9 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 #### Activities
 * Providing Quality assurance for project from inception
-* Devising BDD Strategy for team to follow.
+* Devising `BDD` Strategy for team to follow.
 * Achieved 100% automated test coverage for all features for every platform release.
-* Implementing Behat test framework, fully integrated into a Symfony2 bundled app.
+* Implementing `Behat` test framework, fully integrated into a `Symfony2` bundled app.
 * Integration of tests in the build pipeline, to ensure requirements kept in focus. 
 * Regular workshop with the Product Owners, to adopt specification by example.
 
@@ -168,17 +169,17 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 **Role**: Lead SDET
 
-**Project**: PHP/AngularJS application for OPG (Office of the Public Guardian) case and task management system, for customers seeking power of attorney. This was replacing an old manual system, with intention of improving turnaround times, and information sharing internally.
+**Project**: `PHP`/`AngularJS` application for OPG (Office of the Public Guardian) case and task management system, for customers seeking power of attorney. This was replacing an old manual system, with intention of improving turnaround times, and information sharing internally.
 
 #### Activities
 * Strategic leadership in overall testing approach.
-* Devising BDD strategy and exploratory test approach
+* Devising `BDD` strategy and exploratory test approach
 * Mentored and trained team members on BDD methodologies, tools, and techniques. 
-* Developing Behat UI/API testing framework.
+* Developing `Behat` UI/API testing framework.
 * Introducing load, accessibility and security testing as standard practice.
-* Gherkin training and mentoring for Product Owners.
-* Maintaining scenario-driven tests for CI pipeline.
-* Maintaining tests in CI/CD pipelines.
+* `Gherkin` training and mentoring for Product Owners.
+* Maintaining scenario-driven tests for `CI` pipeline.
+* Maintaining tests in `CI`/`CD` pipelines.
 
 ## KPMG
 ( _Apr 2011 to Dec 2012_ )
@@ -188,12 +189,12 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 **Project**: Test Management and testing on multiple web-based tax, finance and public sector projects.
 
 **Activities**:
-* Process improvement for testing on Agile and BDD projects.
+* Process improvement for testing on Agile and `BDD` projects.
 * Maintained a common risk-based test strategy, and individuals test plans.
 * Test automation strategy for load and regression testing.
-* Coding functional and non-functional tests using Visual Studio test tools.
-* Writing BDD features alongside Business Analysts.
-* Devised Security Testing strategy to be used across projects.
+* Coding functional and non-functional tests using `Visual Studio` test tools.
+* Writing `BDD` features alongside Business Analysts.
+* Devised `Security` Testing strategy to be used across projects.
 * Coordinated monthly regression tests of all departmental websites.
 
 ## Digital Jigsaw
@@ -201,7 +202,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 **Role**: Test Manager (Holiday Cover)
 
-**Project**: MyVodafone customer account app (with dynamic hotspot locator/connector) for Android, iPhone and Blackberry.
+**Project**: MyVodafone customer account app (with dynamic hotspot locator/connector) for `Android`, `iPhone` and `Blackberry`.
 
 **Activities**:
 * Vodafone VIP site maintenance.
