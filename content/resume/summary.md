@@ -4,6 +4,7 @@
 * Name: Paul Littlebury 
 * Phone: +44 7394 074047
 * Email: paullittlebury@gmail.com
+* LinkedIn: https://www.linkedin.com/in/jaffamonkey
 * Website: http://www.jaffamonkey.com
 * Github: https://github.com/jaffamonkey
 
