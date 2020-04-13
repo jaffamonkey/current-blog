@@ -20,7 +20,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 
 # HIGHLIGHTS
 
-* Experience in test engineering in multiple languages ().
+* Experience in test engineering in multiple languages (`JavaScript`, `Python`, `PHP`,`Ruby`, `Java`, `C#`)
 * Leading teams in adopting quality as part of way of working.
 * Mentoring less experienced testers in test engineering.
 * Ensuring testing process in line with Development and DevOps.
@@ -29,29 +29,6 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Improving quality in CI and CD.
 * Introducing non-functional testing as standard practice.
 * `Agile`, `Scrum`, `BDD`, and `Kanban` project experience.
-
-# TECHNICAL SKILLS
-
-### Programming Languages
-`JavaScript`, `Python`, `PHP`,`Ruby`, `Java`, `C#`
-
-### Programming Frameworks
-`Ruby on Rails`, `Angular`, `Node`, `React`, `XCode`, `Spring`, `Drupal`, `Symfony2`, `Zend2`, `MVC`
-
-### Databases
-`SQLServer`, `PostgreSQL`,`MongoDB`, `MySQL`
-
-### Test Frameworks
-`Jest`,`Cucumber`,`Protractor`, `Behat`, `Appium`, `JUnit`, `Jasmine`, `WebdriverIO`, `CasparJS`,`PHPUnit`, `Mink`,`Fitnesse`
-
-### Test Tools
-`Selenium`,`JMeter`, `Artillery`, `OWASP ZAP`,`Pa11y`, `Superagent`, `XCtest`, `XCUITest`
-
-### DevOps
-`Azure`, `AWS`, `TravisCI`, `Docker`, `Vagrant`,`Jenkins`, `GitHub`, `BitBucket`, `TFS`,`VMWare`,`VirtualBox`
-
-### Project Management
-`Jira`, `Confluence`
 
 # EXPERIENCE
 
@@ -222,6 +199,26 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Testing reviews with client representatives at Vodafone, and the in-house testing team.
 
 Experience pre-2011 available upon request
+
+# TECHNICAL SKILLS
+
+### Programming Frameworks
+`Ruby on Rails`, `Angular`, `Node`, `React`, `XCode`, `Spring`, `Drupal`, `Symfony2`, `Zend2`, `MVC`
+
+### Databases
+`SQLServer`, `PostgreSQL`,`MongoDB`, `MySQL`
+
+### Test Frameworks
+`Jest`,`Cucumber`,`Protractor`, `Behat`, `Appium`, `JUnit`, `Jasmine`, `WebdriverIO`, `CasparJS`,`PHPUnit`, `Mink`,`Fitnesse`, `Selenium`
+
+### Other Test Tools
+`JMeter`, `Artillery`, `OWASP ZAP`,`Pa11y`, `Superagent`
+
+### DevOps
+`Azure`, `AWS`, `TravisCI`, `Docker`, `Vagrant`,`Jenkins`, `GitHub`, `BitBucket`, `TFS`,`VMWare`,`VirtualBox`
+
+### Project Management
+`Jira`, `Confluence`
 
 # QUALIFICATIONS
 
