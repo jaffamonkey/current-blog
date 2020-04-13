@@ -8,30 +8,35 @@
 ##### Github: https://github.com/jaffamonkey
 
 # SUMMARY
-_Detail-oriented, reliable, and forward-thinking, with over 20 years experience in the field of Quality. I combine test engineering, devops, exploratory testing, test management and quality assurance to provide a more rounded contribution just simply testing. I have_ _had many roles involving leading and mentoring other testers, including training in test engineering._ _I have 10 years total commercial experience of building test frameworks and coding API, UI and performance tests in JavaScript, Python, C#, Java and PHP. I have expertise in a challenging environments, and will always contribute improvements to process of achieving project goals and objectives. I am frequently involved in DevOps and business decisions, and have mentored both technical and business members of team, to engage more with the quality process._
+
+_Detail-oriented, reliable, and forward-thinking, with over 20 years experience in the field of Quality on many Agile projects. I combine test engineering, devops, exploratory testing, test management and quality assurance to provide a more rounded contribution just simply testing. I have 10 years total commercial experience of building test frameworks and coding API, UI and performance tests in JavaScript, Python, C#, Java and PHP. I have expertise in a challenging environments, and will always contribute improvements to process of achieving project goals and objectives. I am frequently involved in DevOps and business decisions, and have mentored both technical and business members of team, to engage more with the quality process._
+
+# HIGHLIGHTS
+
+* Experience test engineering in multiple languages.
+* Leading teams in adopting quality as part of way of working.
+* Mentoring less experienced testers in test engineering.
+* Ensuring testing process in line with Development and DevOps.
+* Involving business more directly with quality process.
+* Proactively promoting quality as means to measure success.
+* Improving quality in CI and CD.
+* Introducing non-functional testing as standard practice.
+* `Agile`, `Scrum`, `BDD`, and `Kanban` project experience.
 
 # EXPERIENCE
-
-## jaffamonkey Ltd        
-( _Jun__1997_ _to_ _Present_ )
-
-Quality engineering services: QA Management, Test Management, Test Lead/Mentor, Test engineering.
 
 ## Engine | Transformation
 ( _Jun_ _2019 to_ _Oct_ _2019_ )
 
 ### Role: Lead Developer in Test
-
 #### Project: A feature-rich training and career development web app for civil service recruitment. I was brought on at early stage to ensure a quality-driven August Beta release.
 
 #### Activities
-* Developing acceptance UI/API test framework (Ruby-on-Rails/NodeJS) for CI/CD.
-* Mentoring and leading small team of internal testers, and bringing them up to speed with automation.
-* Educating team on how to bring aspects of Quality Assurance to their general way-of-working.
+* Developing acceptance UI/API test framework with ruby-on-rails and CucumberJS.
+* Mentoring a small team of internal testers.
+* Educating team on how to bring in quality to general way-of-working. 
 * Building frameworks for Load, Security and Accessibility testing.
 * Training BA's on using Specification by Example approach to requirements.
-
-#### Methodologies: `Agile`, `Scrum`, `BDD`
 
 #### Tech: `Ruby on Rails`, `JavaScript`, `Angular`, `Azure`, `Docker`, `JMeter`, `Artillery`, `OWASP ZAP`, `Pa11y`, `Cucumber`, `Webdriver`, `Jira`
 
@@ -39,17 +44,15 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 ( _Sep 2018 to_ _Mar_ _2019_ )
 
 ### Role: Lead Quality Engineer
-
 #### Project: Quality engineering for an custom AI Chatbot (using the IBM Watson service).
 
 #### Activities
-* Creating Python framework to bulk test IBM Watson Chatbot API with over 40k training/test sets.
-* Maintaining Jest framework to test web administration app, to manage Chatbot service..
-* Leading testers working on the public-facing web and mobile apps, utilising the Chatbot API service
+* Creating Python framework to bulk test IBM Watson Chatbot API.
+* Creating over 40k training/test sets.
+* Maintaining Jest framework to test web administration app.
+* Leading testers working on the public-facing web and mobile apps.
 * Implementing load and security test son the build server.
 * Maintaining test strategy and delivering presentations at Sprint demos.
-
-#### Methodologies: `Agile`, `Scrum`
 
 #### Tech: `Python3`, `Jest`, `Superagent`, `Node`, `OWASP ZAP`, `Watson SDK`, `Jenkins`, `Jira`
 
@@ -57,19 +60,14 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 ( _Jun 2017 to Jul 2018_ )
 
 ### Role: Lead Software Development Engineer in Test
-
 #### Project: Drupal/Node application to manage partnerships between businesses and local authorities.
 
 #### Activities
-* Developing and maintaining UI/API test framework (CucumberJS/WebdriverIO).
-* Developing genericized version of the test framework, for use on multiple Drupal-based projects.
-* Outlined Test Approach for both internal and external audience.
-* Automated dockerized accessibility and security test frameworks.
-* Integrated Appium for testing on Android and iOS.
+* Developing test framework using CucumberJS/WebdriverIO, with Appium for mobile testing.
+* Devised Test Strategy for both internal and external audience.
+* Coded dockerized accessibility and security test frameworks.
 * Load testing using jMeter, generating dashboard reports with trend history.
 * Migrated test framework to use NightwatchJS, as part of handover
-
-#### Methodologies: `Agile`, `Scrum`, `BDD`
 
 #### Tech: `WebdriverIO`, `NightwatchJS` , `CucumberJS`, `Docker`, `Vagrant`, `Appium`, `XCtest`, `XCUITest`, `XCode`, `AndroidSDK`, `Selenium`, `Travis`, `Jira`
 
@@ -88,8 +86,6 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 * Integration of automated acceptance, security and accessibility testing in the build/deployment pipeline.
 * JMeter API load testing
 
-#### Methodologies: `Agile`, `Scrum`, `BDD`
-
 #### Tech: `AngularJS`, `CucumberJS`, `PhantomJS`, `Marionette`, `Selenium`, `JUnit`, `Jenkins`, `Jira`
 
 ## Engine | Transformation
@@ -106,8 +102,6 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 * Outlined BDD project process for both internal and external audience. Maintaining test automation momentum, as an integral part of user story acceptance.
 * Integration of automated security and accessibility testing build/deployment pipeline. 
 
-#### Methodologies: `Agile`, `Scrum`, `BDD`
-
 #### Tech: `Java`, `Spring`, `AngularJS`, `CucumberJS`, `PhantomJS`, `Gherkin`, `Selenium`, `JUnit`, `Jenkins`, `Jira`
 
 ## Wowcher
@@ -123,8 +117,6 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 * Mentoring and leading other test engineers, bringing them up to speed using CucumberJS/Protractor.
 * Devising strategy for integrating automated acceptance tests into build pipeline.
 * JMeter API load testing
-
-#### Methodologies: `Agile`, `Scrum`, `Kanban`
 
 #### Tech: `CucumberJS`, `Protractor`, `Selenium`, `PhantomJS`, `Postman`, `Jira`, `Gherkin`, `AngularJS`, `REST`, `Github`
 
@@ -145,8 +137,6 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 * JMeter API performance testing.
 * Agile testing process improvement
 
-#### Methodologies: `Agile`, `Scrum`, `BDD`
-
 #### Tech: `CucumberJS`, `Jasmine`, `Selenium`, `PhantomJS`, `Jira`, `Gherkin`, `CasparJS`, `AngularJS`, `REST`, `Github`
 
 ## Hiveworks
@@ -162,8 +152,6 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 * Process improvement to enable better issue management lifecycle and traceability.
 * Creating cross-browser framework using Selenium Grid.
 * Implementation of PhantomJS/CasparJS app for visual regression testing.
-
-#### Methodologies: `Agile`, `Scrum`, `BDD`
 
 #### Tech: `PHP`, `Drupal`, `AngularJS`, `ElasticSearch`, `REST`, `Github`, `Behat`, `Mink`, `Selenium`, `Goutte`, `PhantomJS`, `PHPUnit`, `Jira`, `Gherkin`, `CasparJS`
 
@@ -181,8 +169,6 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 * Implementing Behat test framework, fully integrated into a Symfony2 bundled app.
 * Integration of tests in the build pipeline, to ensure requirements kept in focus. 
 * Mentoring team members on Behat and Gherkin (specification language).
-
-#### Methodologies: `Agile`, `Scrum`, `BDD`
 
 #### Tech: `PHP`, `Javascript`, `Symfony2`, `REST`, `Github`, `Behat`, `Mink`, `Selenium`, `Goutte`, `PhantomJS`, `PHPUnit`, `Jira`, `Gherkin`
 
@@ -208,8 +194,6 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 * Maintaining scenario-driven tests for Continuous Integration process.
 * API functional and security testing.
 
-#### Methodologies: `Agile`, `Scrum`, `BDD`, `TDD`, `Kanban`
-
 #### Technologies: `Linux`, `PHP`, `Javascript`, `AngularJS`, `MySQL`, `Mongo`, `REST`, `Github`, `Zend2`, `Behat`, `Mink`, `Selenium`, `PhantomJS`, `PHPUnit`, `CRM`, `Jira`, `Gherkin`, `Vagrant`, `VMWare`, `JMeter`, `Vagrant`, `VirtualBox`
 
 ## Freelance WordPress/Drupal developer
@@ -219,8 +203,6 @@ Quality engineering services: QA Management, Test Management, Test Lead/Mentor, 
 
 #### Activities
 As a temporary break from QA and testing world, secured contracts with several small businesses, to develop Drupal/WordPress web applications.
-
-#### Methodologies: `Agile`, `TDD`
 
 #### Technologies: `WordPress`, `Drupal`, `PHP`, `Payment Gateways`, `Javascript`, `XML`, `JSON`, `Curl`, `Facebook API`, `Googlemaps API`
 
@@ -241,8 +223,6 @@ As a temporary break from QA and testing world, secured contracts with several s
 * Devised Security Testing strategy to be used across projects, using open source tools.
 * HMTL5, CSS3 and jQuery testing using Firebug.
 * Coordinated monthly regression tests of all departmental websites produced, after regular Microsoft server patching.
-
-#### Methodologies: `Agile`, `Scrum`, `TDD`, `BDD`
 
 #### Technologies: `TFS`, `VisualStudio`, `MVC`, `JQuery`, `HTML5`, `CSS3`, `CodedUI`,  `SQLServer`, `C#`, `.NET4.0`, `Specflow`, `Selenium`, `Fitnesse`, `NUnit`, `OWSAP ZAP`, `Fiddler`, `Tamper`, `WCAG`
 
