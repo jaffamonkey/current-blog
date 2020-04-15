@@ -129,7 +129,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 #### Activities
 * QA Process improvements from requirements through to CI.
 * Maintenance and improvement of `Cucumber`/`Protractor` UI/API test framework.
-* Integrating BDD tests `CI` and `CD`.
+* Integrating BDD tests into `CI` and `CD` pipelines.
 * Mentoring PO and BA's in writing requirements in `Gherkin` format.
 * Visual regression testing, based on UX designs.
 * `JMeter` API `load` testing.
@@ -137,7 +137,7 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 ## Hiveworks
 ( _Mar 2015 to May 2015_ )
 
-**Role**: Lead SDET
+**Role**: Senior SDET
 
 **Project**: `Drupal`/`Node`/`ElasticSearch` CMS web application, aimed at providing content for external users, and means to manage content for Orange brand teams.
 
@@ -177,15 +177,14 @@ _Detail-oriented, reliable, and forward-thinking, with over 20 years experience 
 * Developing `Behat` UI/API testing framework.
 * Introducing load, accessibility and security testing as standard practice.
 * `Gherkin` training and mentoring for Product Owners.
-* Maintaining scenario-driven tests for `CI` pipeline.
-* Maintaining tests in `CI`/`CD` pipelines.
+* Integrating scenario-driven tests  in `CI`/`CD` pipelines.
 
 ## KPMG
 ( _Apr 2011 to Dec 2012_ )
 
 **Role**: Test Manager
 
-**Project**: Test Management and testing on multiple `C#` web-based tax, finance and public sector projects.
+**Project**: Multiple `C#` web-based tax, finance and public sector projects.
 
 **Activities**:
 * Process improvement for testing on Agile and `BDD` projects.
